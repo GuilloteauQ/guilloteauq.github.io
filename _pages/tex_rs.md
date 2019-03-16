@@ -45,4 +45,4 @@ sec.write_latex(&mut f);
 f.write_footer();
 ```
 
-![See the result here !](https://github.com/GuilloteauQ/tex-rs/blob/master/examples/out.pdf)
+[See the result here !](https://github.com/GuilloteauQ/tex-rs/blob/master/examples/out.pdf)
