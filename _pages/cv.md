@@ -9,9 +9,9 @@ navigation_weight: 3
 
 ### Education
 
-* Sept. 2018 - Current: **Master Student in Computer Science** at [MoSIG](https://mosig.imag.fr) (Grenoble, France). Expected graduation: June 2020
+* Sept. 2018 - Current: **Master Student in Computer Science** at [MoSIG](http://mosig.imag.fr) (Grenoble, France). Expected graduation: June 2020
 
-* Sept. 2017 - Current: **Student in Computer Science** at [ENSIMAG](https://ensimag.grenoble-inp.fr) (Grenoble, France). Expected graduation: June 2020
+* Sept. 2017 - Current: **Student in Computer Science** at [ENSIMAG](http://ensimag.grenoble-inp.fr) (Grenoble, France). Expected graduation: June 2020
 
 * Sept. 2015 - July 2017: **Intensive 2-year degree in Maths, Physics and Computer Science**, to prepare for the admission to the main engineering schools, at Lycee Camille Guerin (Poitiers, France)
 
