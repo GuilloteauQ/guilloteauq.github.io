@@ -31,4 +31,5 @@ My role, during this internship, was to write a user-friendly tool to allow the 
 ## Results
 
 I wrote a set of VBA macros that reduced the processing time of the Bill of Materials by 10.
+These macros are now used in several Alstom's site.
 I also automized several tasks that were previously done by hand, like file generation and data management from suppliers.
