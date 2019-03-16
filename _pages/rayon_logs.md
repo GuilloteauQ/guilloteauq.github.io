@@ -1,5 +1,5 @@
 ---
-title: Internship: Rayon Logs
+title: Internship Rayon Logs
 permalink: /rayon_logs/
 ---
 
