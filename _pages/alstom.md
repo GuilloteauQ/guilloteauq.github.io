@@ -1,6 +1,6 @@
 ---
 title: Internship: Alstom
-permalink: /internships/alstom/
+permalink: /alstom/
 ---
 
 ## Alstom

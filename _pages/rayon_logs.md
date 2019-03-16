@@ -1,6 +1,6 @@
 ---
 title: Internship: Rayon Logs
-permalink: /internships/rayon_logs/
+permalink: /rayon_logs/
 ---
 
 ## Rayon Logs

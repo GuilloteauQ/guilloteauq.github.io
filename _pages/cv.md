@@ -20,11 +20,11 @@ navigation_weight: 3
 
 ### Internships
 
-* Jan-Jun 2019: Research Intern at [LIG](www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust ([more](/internships/adpative_mergesort))
+* Jan-Jun 2019: Research Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust ([more](/internships/adaptive_mergesort))
 
-* Jul-Aug 2018: Summer Intern at [Alstom](www.alstom.com) (La Rochelle, France): Developed tools allowing automatic and faster data processing in order to create Fire Safety files for a train, based on the Bill of Materials.  ([more](/internships/alstom))
+* Jul-Aug 2018: Summer Intern at [Alstom](http://www.alstom.com) (La Rochelle, France): Developed tools allowing automatic and faster data processing in order to create Fire Safety files for a train, based on the Bill of Materials.  ([more](/internships/alstom))
 
-* Jun 2018: Summer Intern at [LIG](www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon) ([more](/internships/rayon_logs))
+* Jun 2018: Summer Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon) ([more](/internships/rayon_logs))
 
 
 ### Languages

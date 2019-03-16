@@ -1,6 +1,6 @@
 ---
 title: Internship: Adaptive Mergesort
-permalink: /internships/adaptive_mergesort/
+permalink: /adaptive_mergesort/
 ---
 
 ## Adaptive Mergesort
