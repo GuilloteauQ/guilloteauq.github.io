@@ -1,7 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
-navigation_weight: 1
+navigation_weight: 2
 ---
 
 ### Contact information
