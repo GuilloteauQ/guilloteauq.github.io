@@ -17,7 +17,7 @@ From July 2nd 2018 to August 24th 2018
 
 ### Mentor
 
-Eric Marc (Responsible of the material center)
+Eric Marc (Head of the material center, Alstom La Rochelle)
 
 ## Goal
 
@@ -31,4 +31,4 @@ My role, during this internship, was to write a user-friendly tool to allow the 
 ## Results
 
 I wrote a set of VBA macros that reduced the processing time of the Bill of Materials by 10.
-I also automized several tasks that were previously done by hand, like file generation and supplier data management.
+I also automized several tasks that were previously done by hand, like file generation and data management from suppliers.
