@@ -22,7 +22,7 @@ Laboratoire d'Informatique de Grenoble [LIG](http://www.liglab.fr/en) (in Grenob
 
 ## Goal
 
-The goal of this internship was to be able to visualize the execution of a parallel algorithm in [Rust](https://www.rust-lang.org) using the [Rayon library](https://github.com/rayon-rs/rayon).
+The goal of this internship was to be able to visualize the execution of a parallel algorithm in [Rust](https://www.rust-lang.org) that is using the [Rayon library](https://github.com/rayon-rs/rayon).
 
 ## Role
 
