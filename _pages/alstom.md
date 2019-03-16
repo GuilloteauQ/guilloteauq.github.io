@@ -1,5 +1,5 @@
 ---
-title: Internship: Alstom
+title: Internship Alstom
 permalink: /alstom/
 navigation_weight: 0
 ---
