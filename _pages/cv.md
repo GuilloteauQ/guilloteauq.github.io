@@ -15,11 +15,16 @@ navigation_weight: 3
 
 * Sept. 2015 - July 2017: **Intensive 2-year degree in Maths, Physics and Computer Science**, to prepare for the admission to the main engineering schools, at Lycee Camille Guerin (Poitiers, France)
 
-* July 2015: **Baccalaureat in Sciences**, with option in Computer Science at Lycee Isaac de l'Etoile (Poitiers, France). Grade: 17,23 (Highest Hounours)
+* July 2015: **Baccalaureat in Sciences**, with option in Computer Science at Lycee Isaac de l'Etoile (Poitiers, France). Grade: 17,23 (Highest Honours)
 
 
 ### Internships
 
+* Jan-Jun 2019: Research Intern at [LIG](www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust ([more](/internships/adpative_mergesort))
+
+* Jul-Aug 2018: Summer Intern at [Alstom](www.alstom.com) (La Rochelle, France): Developed tools allowing automatic and faster data processing in order to create Fire Safety files for a train, based on the Bill of Materials.  ([more](/internships/alstom))
+
+* Jun 2018: Summer Intern at [LIG](www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon) ([more](/internships/rayon_logs))
 
 
 ### Languages
