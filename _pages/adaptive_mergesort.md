@@ -1,5 +1,5 @@
 ---
-title: Internship: Adaptive Mergesort
+title: Internship Adaptive Mergesort
 permalink: /adaptive_mergesort/
 ---
 
