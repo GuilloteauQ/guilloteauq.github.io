@@ -7,6 +7,10 @@ navigation_weight: 1
 
 ## Who am I ?
 
+I am a Student in Computer Science at [ENSIMAG](http://ensimag.grenoble-inp.fr) in Grenoble, with a double curriculum with the [MoSIG](http://mosig.imag.fr) Master.
+
+I am intersted in Parallel and Distributed Computing, as well as Energy Efficient Computing.
+
 
 ## Info
 
