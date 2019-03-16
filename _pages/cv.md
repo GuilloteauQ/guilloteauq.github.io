@@ -29,5 +29,16 @@ navigation_weight: 3
 
 ### Languages
 
+* English: Fluent (TOEIC: 960/990)
+
+* French: Mothertongue
+
+* German: Beginner
+
 
 ### Programming skills
+
+C, Python, Git, Rust, LaTeX, Java
+
+
+([Download the pdf version]({{ site.url }}/downloads/Resume_Guilloteau_Quentin_Mar_2019.pdf)
