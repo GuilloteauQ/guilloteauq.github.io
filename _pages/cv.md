@@ -4,10 +4,10 @@ permalink: /cv/
 navigation_weight: 2
 ---
 
-## CV
+# CV
 
 
-### Education
+## Education
 
 * Sept. 2018 - Current: **Master Student in Computer Science** at [MoSIG](http://mosig.imag.fr) (Grenoble, France). Expected graduation: June 2020
 
@@ -18,7 +18,7 @@ navigation_weight: 2
 * July 2015: **Baccalaureat in Sciences**, with option in Computer Science at Lycee Isaac de l'Etoile (Poitiers, France). Grade: 17,23 (Highest Honours)
 
 
-### Internships
+## Internships
 
 * Jan-Jun 2019: Research Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust ([more](/internships/adaptive_mergesort))
 
@@ -27,7 +27,7 @@ navigation_weight: 2
 * Jun 2018: Summer Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon) ([more](/internships/rayon_logs))
 
 
-### Languages
+## Languages
 
 * English: Fluent (TOEIC: 960/990)
 
@@ -36,7 +36,7 @@ navigation_weight: 2
 * German: Beginner
 
 
-### Programming skills
+## Programming skills
 
 C, Python, Git, Rust, LaTeX, Java
 

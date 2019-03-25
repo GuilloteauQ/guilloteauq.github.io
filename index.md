@@ -3,7 +3,7 @@ title: Homepage
 navigation_weight: 1
 ---
 
-# GuilloteauQ's Homepage
+# Quentin Guilloteau's Homepage
 
 ## Who am I ?
 
