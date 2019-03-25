@@ -41,4 +41,4 @@ navigation_weight: 2
 C, Python, Git, Rust, LaTeX, Java
 
 
-([Download the pdf version]({{ site.url }}/downloads/Resume_Guilloteau_Quentin_Mar_2019.pdf))
+([Download the pdf version (April 2019)]({{ site.url }}/downloads/Resume_Guilloteau_Quentin.pdf))
