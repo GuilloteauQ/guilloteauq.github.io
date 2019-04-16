@@ -17,3 +17,5 @@ A Rust crate to generate LaTeX files
 ## Homework
 
 * [PTAS Presentation]({{ site.url }}/downloads/PTAS.pdf)
+
+* [TWE Presentation]({{ site.url }}/downloads/Quentin_Guilloteau.pdf)
