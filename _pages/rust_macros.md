@@ -3,7 +3,7 @@ title: Messing with Macro in Rust
 permalink: blog/rust_macros/
 ---
 
-# Messing with Macro in Rust
+# Messing with Macros and Enums in Rust
 
 ## Intro
 
