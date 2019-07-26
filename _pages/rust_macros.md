@@ -1,6 +1,6 @@
 ---
 title: Messing with Macro in Rust
-permalink: /blog/rust_macros/
+permalink: blog/rust_macros/
 ---
 
 # Messing with Macro in Rust
