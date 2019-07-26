@@ -44,7 +44,7 @@ But this was waaaay too much pain for me, so I tried to wrap some of this in a m
 
 My first thought was: "This ``match`` is so boring to write !"
 
-So here is my first attempt at making the implementation of traits less painfull:
+So let's try making the implementation of traits less painfull:
 
 ```rust
 macro_rules! apply_on_match {
@@ -102,8 +102,10 @@ macro_rules! generate_macro_trait_impl {
         macro_rules! apply_on_match {
             // It is now the same macro as in the first try
             ($self:ident, $function_name:ident, $($arg:expr),*) => {
-                match &self {
-                    BigEnum::$type(x) => x.$function($($arg),*),
+                match &$self {
+                    $(
+                        BigEnum::$type(x) => x.$function($($arg),*),
+                    )*
                 }
             }
         }
@@ -158,8 +160,10 @@ macro_rules! generate_macro_trait_impl {
             ($d:tt) => {
                 macro_rules! apply_on_match {
                     ($d self:ident, $d function_name:ident, $d ($d arg:expr),*) => {
-                        match &self {
-                            BigEnum::$type(x) => x.$d function($d ($d arg),*),
+                        match &$d self {
+                            $(
+                                BigEnum::$type(x) => x.$d function($d ($d arg),*),
+                            )*
                         }
                     }
                 }
@@ -196,7 +200,7 @@ So, by looking at the [Serialize trait](https://docs.serde.rs/serde/ser/trait.Se
 
 ```rust
 impl Serialize for BigEnum {
-    fn serialize(&self, serializer: S) -> Result<S::Ok, S::Error> 
+    fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error> 
     where
         S: Serializer
     {
@@ -218,11 +222,11 @@ The implementation of the trait is reduced to:
 
 ```rust
 impl Serialize for BigEnum {
-    fn serialize(&self, serializer: S) -> Result<S::Ok, S::Error> 
+    fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error> 
     where
         S: Serializer
     {
-        apply_on_match!(self, serialize, serializer,)
+        apply_on_match!(self, serialize, serializer)
     }   
 }
 ```
@@ -240,9 +244,8 @@ And, as writing something twice is too much, we can add the defintion of the enu
 
 ```rust
 macro_rules! generate_enum_and_apply_macro {
-    ($($type:ident),*) => {
-        /// This is a very big enum...
-        pub enum BigEnum {
+    ($name:ident, $($type:ident),*) => {
+        pub enum $name {
             $(
                 $type($type),
             )*
@@ -252,8 +255,10 @@ macro_rules! generate_enum_and_apply_macro {
             ($d:tt) => {
                 macro_rules! apply_on_match {
                     ($d self:ident, $d function_name:ident, $d ($d arg:expr),*) => {
-                        match &self {
-                            BigEnum::$type(x) => x.$d function($d ($d arg),*),
+                        match &$d self {
+                            $(
+                                $name::$type(x) => x.$d function($d ($d arg),*),
+                            )*
                         }
                     }
                 }
@@ -266,7 +271,7 @@ macro_rules! generate_enum_and_apply_macro {
 With this macro, we would only need one call to define everything:
 
 ```rust
-generate_enum_and_apply_macro!(Struct1, Struct2, ..., StructN);
+generate_enum_and_apply_macro!(BigEnum, Struct1, Struct2, ..., StructN);
 ```
 
 
@@ -283,5 +288,4 @@ pub enum BigEnum {
 
 And we achieved our goal: We only have one instance of all the ``Struct``s !!
 
-
-
+[Link to the playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=7edd006a46d71b6cf8666ec4b0eddda5)
