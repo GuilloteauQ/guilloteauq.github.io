@@ -19,3 +19,5 @@ A Rust crate to generate LaTeX files
 * [PTAS Presentation]({{ site.url }}/downloads/PTAS.pdf)
 
 * [TWE Presentation]({{ site.url }}/downloads/Quentin_Guilloteau.pdf)
+
+* [Parallel Dithering]({{ site.url }}/downloads/Parallel_Dithering_Quentin_Guilloteau.pdf)
