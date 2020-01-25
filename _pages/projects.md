@@ -16,8 +16,12 @@ A Rust crate to generate LaTeX files
 
 ## Homework
 
-* [PTAS Presentation]({{ site.url }}/downloads/PTAS.pdf)
+### [PTAS Presentation]({{ site.url }}/downloads/PTAS.pdf):
 
-* [TWE Presentation]({{ site.url }}/downloads/Quentin_Guilloteau.pdf)
+A presentation for PTAS applied to the Bin Packing Problem
 
-* [Parallel Dithering]({{ site.url }}/downloads/Parallel_Dithering_Quentin_Guilloteau.pdf)
+### [Parallel Dithering]({{ site.url }}/downloads/Parallel_Dithering_Quentin_Guilloteau.pdf): 
+
+The report for the Parallel Systems class from MoSIG2.
+    
+I try there to implement and then optimize a MPI application to apply the [Floyd-Steinberg Dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering) in parallel.
