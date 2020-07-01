@@ -28,4 +28,4 @@ I try there to implement and then optimize a MPI application to apply the [Floyd
 
 ## M2 Internship
 
-My M2 Thesis is available [here]({{ site.url }}/downloads/M2_report_Quentin_Guilloteau.pdf)
+My M2 Thesis is available [here]({{ site.url }}/downloads/M2_report_Quentin_Guilloteau.pdf), slides [here]({{ site.url }}/downloads/presentation.pdf)
