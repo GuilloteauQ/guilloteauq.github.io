@@ -1,3 +1,9 @@
+---
+title: example
+permalink: /example/
+navigation_weight: 2
+---
+
 # This is an example of markdown file with equations
 
 ## Centered equation
@@ -16,3 +22,5 @@ This is again inline math $\sum (-1)^n = ?$
 $$
 \sum _{i = 1}^{n} i = \frac{n(n + 1)}{2}
 $$
+
+[link to pure html](https://guilloteauq.github.io/_pages/plop.html)
