@@ -14,6 +14,8 @@ A C library to visualize [OpenMP](https://www.openmp.org/) tasks.
 * [tex-rs](/projects/tex_rs):
 A Rust crate to generate LaTeX files
 
+* [mfc]({{ site.url }}/downloads/model_free_control.jl.html)
+
 ## Homework
 
 ### [PTAS Presentation]({{ site.url }}/downloads/PTAS.pdf):
