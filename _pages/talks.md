@@ -4,6 +4,8 @@ permalink: /talks/
 navigation_weight: 4
 ---
 
+A list of some talk I gave:
+
 
 - Dec 2021 - [13th JLESC](https://icl.utk.edu/jlesc13/): Non Intrusive Harvesting of Idle Grid Resources with a Control Based Approach ([slides]({{ site.url }}/downloads/slides/jlesc.pdf))
 
@@ -11,7 +13,7 @@ navigation_weight: 4
 
 - Sept 2021 - [Datamove-tt](https://team.inria.fr/datamove/talks/): Non-intrusive harvesting of grid idle resources: a control-based approach ([slides](https://team.inria.fr/datamove/files/2021/09/210922-slides-quentin-guilloteau.pdf))
 
-- Sept 2021 - [Summer School "Green Energy meets Green Computing](https://www.simula.no/education/courses/green-computing-meets-green-energy): One Minute Madness ([slides]({{ site.url }}/downloads/slides/GreenComputingOneMinuteMadness.pdf))
+- Sept 2021 - [Summer School "Green Energy meets Green Computing"](https://www.simula.no/education/courses/green-computing-meets-green-energy): One Minute Madness ([slides]({{ site.url }}/downloads/slides/GreenComputingOneMinuteMadness.pdf))
 
 - July 2021 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/): Ctrl-A turns Green: how can the team contribute to sober and frugal IT ? ([slides]({{ site.url }}/downloads/slides/CtrlA_turns_Green.pdf))
 
