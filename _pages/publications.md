@@ -8,6 +8,8 @@ Here is the list of my publications.
 
 You can also find a [RSS Feed](https://api.archives-ouvertes.fr/search/?wt=rss&q=authIdHal_s%3A%28quentin-guilloteau%29) and a [bib file](https://api.archives-ouvertes.fr/search/?wt=bibtex&q=authIdHal_s%3A%28quentin-guilloteau%29).
 
+If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-guilloteau).
+
 # Conferences/Workshop
 
 - Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten. **Controlling the Injection of Best-Effort Tasks to Harvest Idle Computing Grid Resources**, *ICSTCC 2021 - 25th International Conference on System Theory, Control and Computing*, [hal-03363709](https://hal.inria.fr/hal-03363709/), [pdf](https://hal.inria.fr/hal-03363709/file/ICSTCC_2021.pdf)
