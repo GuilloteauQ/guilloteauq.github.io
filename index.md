@@ -7,14 +7,21 @@ navigation_weight: 1
 
 ## Who am I ?
 
-I am a Student in Computer Science at [ENSIMAG](http://ensimag.grenoble-inp.fr) in Grenoble, with a double curriculum with the [MoSIG](http://mosig.imag.fr) Master.
+I am a 2nd year PhD Student in Computer Science at [Université Grenoble Alpes (UGA)](https://www.univ-grenoble-alpes.fr/) in Grenoble, France and hosted in the [LIG Ctrl-A](https://team.inria.fr/ctrl-a/) and [LIG Datamove](https://team.inria.fr/datamove/) teams.
 
-I am interested in Parallel and Distributed Computing, as well as Energy Efficient Computing.
+I am working on: [*Autonomic approach to runtime management of HPC cluster resources*](https://theses.fr/s245425) under the supervision of [Eric Rutten](https://team.inria.fr/ctrl-a/members/eric-rutten/) and [Olivier Richard](http://datamove.imag.fr/olivier.richard/). 
 
 
-## Info
+## Contact
 
-* Email: [Quentin.Guilloteau@grenoble-inp.org](mailto:Quentin.Guilloteau@grenoble-inp.org)
+* Email: Firstname.Lastname@univ-grenoble-alpes.fr
+
+* Offices:
+
+    * [Inria GIANT office](https://www.openstreetmap.org/search?whereami=1&query=45.19656%2C5.70868#map=19/45.19656/5.70868) (office C222):
+
+    * [IMAG Building](https://www.openstreetmap.org/relation/6158280#map=19/45.19021/5.76717) (office 431)
+
 
 * Github: [GuilloteauQ](https://github.com/GuilloteauQ)
 
