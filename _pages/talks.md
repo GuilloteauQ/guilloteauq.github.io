@@ -1,7 +1,7 @@
 ---
 title: Talks
 permalink: /talks/
-navigation_weight: 4
+navigation_weight: 5
 ---
 
 A list of some talk I gave:

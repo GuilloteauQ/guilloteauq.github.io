@@ -1,7 +1,7 @@
 ---
 title: Blog
 permalink: /blog/
-navigation_weight: 5
+navigation_weight: 6
 ---
 
 ## Blog
