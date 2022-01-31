@@ -4,9 +4,9 @@ permalink: /publications/
 navigation_weight: 4
 ---
 
-- [RSS Feed](https://api.archives-ouvertes.fr/search/?wt=rss&q=authIdHal_s%3A%28quentin-guilloteau%29)
+Here is the list of my publications.
 
-- [bib file](https://api.archives-ouvertes.fr/search/?wt=bibtex&q=authIdHal_s%3A%28quentin-guilloteau%29)
+You can also find a [RSS Feed](https://api.archives-ouvertes.fr/search/?wt=rss&q=authIdHal_s%3A%28quentin-guilloteau%29) and a [bib file](https://api.archives-ouvertes.fr/search/?wt=bibtex&q=authIdHal_s%3A%28quentin-guilloteau%29).
 
 # Conferences/Workshop
 
