@@ -5,11 +5,11 @@ navigation_weight: 4
 ---
 
 
-- Dec 2021 - [13th JLESC](https://icl.utk.edu/jlesc13/): Non Intrusive Harvesting of Idle Grid Resources with a Control Based Approach ([slides]({{ site.url }}/downloads/slides/jlesc.pdf]))
+- Dec 2021 - [13th JLESC](https://icl.utk.edu/jlesc13/): Non Intrusive Harvesting of Idle Grid Resources with a Control Based Approach ([slides]({{ site.url }}/downloads/slides/jlesc.pdf))
 
-- Oct 2021 - [ICSTCC 2021](https://icstcc2021.ac.tuiasi.ro/): Controlling the Injection of Best-Effort Tasks toHarvest Idle Computing Grid Resources ([slides]({{ site.url }}/downloads/slides/icstcc.pdf]))
+- Oct 2021 - [ICSTCC 2021](https://icstcc2021.ac.tuiasi.ro/): Controlling the Injection of Best-Effort Tasks toHarvest Idle Computing Grid Resources ([slides]({{ site.url }}/downloads/slides/icstcc.pdf))
 
-- Sept 2021 - [Datamove-tt](https://team.inria.fr/datamove/talks/): Non-intrusive harvesting of grid idle resources: a control-based approach ([slides](https://team.inria.fr/datamove/files/2021/09/210922-slides-quentin-guilloteau.pdf)]
+- Sept 2021 - [Datamove-tt](https://team.inria.fr/datamove/talks/): Non-intrusive harvesting of grid idle resources: a control-based approach ([slides](https://team.inria.fr/datamove/files/2021/09/210922-slides-quentin-guilloteau.pdf))
 
 - Sept 2021 - [Summer School "Green Energy meets Green Computing](https://www.simula.no/education/courses/green-computing-meets-green-energy): One Minute Madness ([slides]({{ site.url }}/downloads/slides/GreenComputingOneMinuteMadness.pdf))
 
