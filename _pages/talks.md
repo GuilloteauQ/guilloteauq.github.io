@@ -6,7 +6,7 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
-- April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness ([slides]({{ site.url }}/downloads/Quentin_Guilloteau_CtrlA.pdf))
+- April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
 
 - Mars 2022 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/):  Model-Free Control for Resource Harvesting in Computing Grids
 
