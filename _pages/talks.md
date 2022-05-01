@@ -6,13 +6,13 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
-- April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
+- April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness (Best Presentation Award) ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
 
 - Mars 2022 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/):  Model-Free Control for Resource Harvesting in Computing Grids
 
 - Dec 2021 - [13th JLESC](https://icl.utk.edu/jlesc13/): Non Intrusive Harvesting of Idle Grid Resources with a Control Based Approach ([slides]({{ site.url }}/downloads/slides/jlesc.pdf))
 
-- Oct 2021 - [ICSTCC 2021](https://icstcc2021.ac.tuiasi.ro/): Controlling the Injection of Best-Effort Tasks toHarvest Idle Computing Grid Resources ([slides]({{ site.url }}/downloads/slides/icstcc.pdf))
+- Oct 2021 - [ICSTCC 2021](https://icstcc2021.ac.tuiasi.ro/): Controlling the Injection of Best-Effort Tasks to Harvest Idle Computing Grid Resources ([slides]({{ site.url }}/downloads/slides/icstcc.pdf))
 
 - Sept 2021 - [Datamove-tt](https://team.inria.fr/datamove/talks/): Non-intrusive harvesting of grid idle resources: a control-based approach ([slides](https://team.inria.fr/datamove/files/2021/09/210922-slides-quentin-guilloteau.pdf))
 
