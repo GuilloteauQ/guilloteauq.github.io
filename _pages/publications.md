@@ -12,7 +12,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 # Conferences/Workshop
 
-- Quentin Guilloteau, Bogdan Robu, Cédric Join, Michel Fliess, Eric Rutten and Olivier Richard. **Model-Free Control for Resource Harvesting in Computing Grids**, **CCTA 2022 - 6th IEEE Conference on Control Technology and Applications**, TBD
+- Quentin Guilloteau, Bogdan Robu, Cédric Join, Michel Fliess, Eric Rutten and Olivier Richard. **Model-Free Control for Resource Harvesting in Computing Grids**, *CCTA 2022 - 6th IEEE Conference on Control Technology and Applications*, TBD
 
 - Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten. **Controlling the Injection of Best-Effort Tasks to Harvest Idle Computing Grid Resources**, *ICSTCC 2021 - 25th International Conference on System Theory, Control and Computing*, [hal-03363709](https://hal.inria.fr/hal-03363709/), [pdf](https://hal.inria.fr/hal-03363709/file/ICSTCC_2021.pdf)
 
