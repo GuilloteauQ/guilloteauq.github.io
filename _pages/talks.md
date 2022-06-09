@@ -6,7 +6,7 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
-- June 2022 - [Journées du GDR-GPL: GR YODA](https://gdr-gpl-2022.sciencesconf.org/): Towards Reusability of Autonomic Controllers in High Performance Computing ([slides]({{ site.url }}/downloads/slides/yoda_22.pdf))
+- June 2022 - [Journées du GDR-GPL](https://gdr-gpl-2022.sciencesconf.org/)-[GT YODA](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/YODA/): Towards Reusability of Autonomic Controllers in High Performance Computing ([slides]({{ site.url }}/downloads/slides/yoda_22.pdf))
 
 - April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness (Best Presentation Award) ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
 
