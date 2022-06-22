@@ -12,7 +12,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 # Conferences/Workshop
 
-- Quentin Guilloteau, Olivier Richard, and Eric Rutten. ** Étude des applications Bag-of-Tasks du méso-centre Gricad**, *COMPAS 2022 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-03702246](https://hal.inria.fr/hal-03702246/), [pdf](https://hal.archives-ouvertes.fr/hal-03702246/document)
+- Quentin Guilloteau, Olivier Richard, and Eric Rutten. **Étude des applications Bag-of-Tasks du méso-centre Gricad**, *COMPAS 2022 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-03702246](https://hal.inria.fr/hal-03702246/), [pdf](https://hal.archives-ouvertes.fr/hal-03702246/document)
 
 - Quentin Guilloteau, Jonathan Bleuzen, Millian Poquet, Olivier Richard. **Transposition d'environnements distribués reproductibles avec NixOS Compose**. *COMPAS 2022-Conférence d'informatique en Parallélisme, Architecture et Système*, [hal-03696485](https://hal.archives-ouvertes.fr/hal-03696485), [pdf](https://hal.archives-ouvertes.fr/hal-03696485/document)
 
