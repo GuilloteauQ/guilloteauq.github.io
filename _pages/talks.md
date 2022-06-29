@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- June 2022 - [LIG WAX](https://www.liglab.fr/fr)-[GLSI](https://www.liglab.fr/fr/recherche/axes-recherche/genie-des-logiciels-et-des-systemes-dinformation): Autonomic Management of Idle HPC Resource Harvesting ([slides]({{ site.url }}/downloads/slides/lig_wax_2022_guilloteau.pdf))
+
 - June 2022 - [Journées du GDR-GPL](https://gdr-gpl-2022.sciencesconf.org/)-[GT YODA](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/YODA/): Towards Reusability of Autonomic Controllers in High Performance Computing ([slides]({{ site.url }}/downloads/slides/yoda_22.pdf))
 
 - April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness (Best Presentation Award) ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
