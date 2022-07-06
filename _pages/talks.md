@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- July 2022 - [Compas 22](https://2022.compas-conference.fr/tutoriaux/): Transposition d’environnements distribués reproductibles avec NixOS Compose ([slides]({{ site.url }}/downloads/slides/nxc_compas22.pdf))
+
 - July 2022 - [Compas 22](https://2022.compas-conference.fr/tutoriaux/): Tutorial on the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/tuto_nix_compas22.pdf))
 
 - June 2022 - [LIG WAX](https://www.liglab.fr/fr)-[GLSI](https://www.liglab.fr/fr/recherche/axes-recherche/genie-des-logiciels-et-des-systemes-dinformation): Autonomic Management of Idle HPC Resource Harvesting ([slides]({{ site.url }}/downloads/slides/lig_wax_2022_guilloteau.pdf))
