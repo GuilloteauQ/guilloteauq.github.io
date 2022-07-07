@@ -6,9 +6,9 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
-- July 2022 - [Compas 22](https://2022.compas-conference.fr/tutoriaux/): Transposition d’environnements distribués reproductibles avec NixOS Compose ([slides]({{ site.url }}/downloads/slides/nxc_compas22.pdf))
+- July 2022 - [Compas 22](https://2022.compas-conference.fr/programme/): Transposition d’environnements distribués reproductibles avec NixOS Compose ([slides]({{ site.url }}/downloads/slides/nxc_compas22.pdf))
 
-- July 2022 - [Compas 22](https://2022.compas-conference.fr/tutoriaux/): Étude des applications Bag-of-Tasks du méso-centre Gricad ([slides]({{ site.url }}/downloads/slides/data_cigri_compas22.pdf))
+- July 2022 - [Compas 22](https://2022.compas-conference.fr/programme/): Étude des applications Bag-of-Tasks du méso-centre Gricad ([slides]({{ site.url }}/downloads/slides/data_cigri_compas22.pdf))
 
 - July 2022 - [Compas 22](https://2022.compas-conference.fr/tutoriaux/): Tutorial on the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/tuto_nix_compas22.pdf))
 
