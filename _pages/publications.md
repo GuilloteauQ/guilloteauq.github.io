@@ -12,7 +12,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 # Conferences/Workshop
 
-- Quentin Guilloteau, Jonathan Bleuzen, Millian Poquet, Olivier Richard. **Painless Transposition of Reproducible Distributed Environments with NixOS Compose**. *CLUSTER22 - 2022 IEEE International Conference on Cluster Computing*
+- Quentin Guilloteau, Jonathan Bleuzen, Millian Poquet, Olivier Richard. **Painless Transposition of Reproducible Distributed Environments with NixOS Compose**. *CLUSTER22 - 2022 IEEE International Conference on Cluster Computing*, [hal-03723771](https://hal.archives-ouvertes.fr/hal-03723771), [pdf](https://hal.archives-ouvertes.fr/hal-03723771/document)
 
 - Quentin Guilloteau, Olivier Richard, and Eric Rutten. **Étude des applications Bag-of-Tasks du méso-centre Gricad**, *COMPAS 2022 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-03702246](https://hal.archives-ouvertes.fr/hal-03702246), [pdf](https://hal.archives-ouvertes.fr/hal-03702246/document)
 
