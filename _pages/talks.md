@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- Aug 2022 - [CCTA 22](https://ccta2022.ieeecss.org/): Model-Free Control for Resource Harvesting in Computing Grids ([slides]({{ site.url }}/downloads/slides/slides_ccta_guilloteau.pdf))
+
 - July 2022 - [Compas 22](https://2022.compas-conference.fr/programme/): Transposition d’environnements distribués reproductibles avec NixOS Compose ([slides]({{ site.url }}/downloads/slides/nxc_compas22.pdf))
 
 - July 2022 - [Compas 22](https://2022.compas-conference.fr/programme/): Étude des applications Bag-of-Tasks du méso-centre Gricad ([slides]({{ site.url }}/downloads/slides/data_cigri_compas22.pdf))
