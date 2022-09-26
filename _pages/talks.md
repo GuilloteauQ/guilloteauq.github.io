@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- Sept 2022 - [CARLA 22](http://carla22.org/index.html): Tutorial on Reproducible Environments ([slides]({{ site.url }}/downloads/slides/carla_nix_22.pdf))
+
 - Sept 2022 - [CLUSTER 22](https://clustercomp.org/2022/):Painless Transposition of Reproducible Distributed Environments with NixOS Compose  ([slides]({{ site.url }}/downloads/slides/cluster22.pdf))
 
 - Aug 2022 - [CCTA 22](https://ccta2022.ieeecss.org/): Model-Free Control for Resource Harvesting in Computing Grids ([slides]({{ site.url }}/downloads/slides/slides_ccta_guilloteau.pdf))
