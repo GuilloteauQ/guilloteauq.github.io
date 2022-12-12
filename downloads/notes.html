@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>CiGri FF</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="notes_files/libs/clipboard/clipboard.min.js"></script>
+<script src="notes_files/libs/quarto-html/quarto.js"></script>
+<script src="notes_files/libs/quarto-html/popper.min.js"></script>
+<script src="notes_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="notes_files/libs/quarto-html/anchor.min.js"></script>
+<link href="notes_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="notes_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="notes_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="notes_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="notes_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#identification" class="nav-link active" data-scroll-target="#identification"><span class="toc-section-number">1</span>  Identification</a>
+  <ul class="collapse">
+  <li><a href="#usage" class="nav-link" data-scroll-target="#usage"><span class="toc-section-number">1.1</span>  Usage</a></li>
+  <li><a href="#execution-times-and-waiting-times" class="nav-link" data-scroll-target="#execution-times-and-waiting-times"><span class="toc-section-number">1.2</span>  Execution Times and Waiting Times</a></li>
+  <li><a href="#gantt-chart" class="nav-link" data-scroll-target="#gantt-chart"><span class="toc-section-number">1.3</span>  Gantt Chart</a></li>
+  </ul></li>
+  <li><a href="#modelling" class="nav-link" data-scroll-target="#modelling"><span class="toc-section-number">2</span>  Modelling</a>
+  <ul class="collapse">
+  <li><a href="#raph-plot" class="nav-link" data-scroll-target="#raph-plot"><span class="toc-section-number">2.1</span>  Raph Plot</a></li>
+  <li><a href="#no-job-in-the-waiting-queue" class="nav-link" data-scroll-target="#no-job-in-the-waiting-queue"><span class="toc-section-number">2.2</span>  No job in the waiting queue</a></li>
+  <li><a href="#jobs-in-the-waiting-queue" class="nav-link" data-scroll-target="#jobs-in-the-waiting-queue"><span class="toc-section-number">2.3</span>  Jobs in the waiting queue</a></li>
+  <li><a href="#model-first-try" class="nav-link" data-scroll-target="#model-first-try"><span class="toc-section-number">2.4</span>  Model: First try</a></li>
+  <li><a href="#model-with-small-identification" class="nav-link" data-scroll-target="#model-with-small-identification"><span class="toc-section-number">2.5</span>  Model: with small identification</a></li>
+  <li><a href="#verification-on-non-step-input" class="nav-link" data-scroll-target="#verification-on-non-step-input"><span class="toc-section-number">2.6</span>  Verification on non-step input</a></li>
+  </ul></li>
+  <li><a href="#design-of-the-controller" class="nav-link" data-scroll-target="#design-of-the-controller"><span class="toc-section-number">3</span>  Design of the Controller</a>
+  <ul class="collapse">
+  <li><a href="#if-u-gamma" class="nav-link" data-scroll-target="#if-u-gamma"><span class="toc-section-number">3.1</span>  If <span class="math inline">\(u &lt; \gamma\)</span></a></li>
+  <li><a href="#if-u-gamma-1" class="nav-link" data-scroll-target="#if-u-gamma-1"><span class="toc-section-number">3.2</span>  If <span class="math inline">\(u &gt; \gamma\)</span></a></li>
+  <li><a href="#pseudo-code" class="nav-link" data-scroll-target="#pseudo-code"><span class="toc-section-number">3.3</span>  Pseudo Code</a></li>
+  </ul></li>
+  <li><a href="#state-space-variable" class="nav-link" data-scroll-target="#state-space-variable"><span class="toc-section-number">4</span>  State Space Variable</a>
+  <ul class="collapse">
+  <li><a href="#lets-try" class="nav-link" data-scroll-target="#lets-try"><span class="toc-section-number">4.1</span>  Let’s try</a></li>
+  <li><a href="#details" class="nav-link" data-scroll-target="#details"><span class="toc-section-number">4.2</span>  Details</a></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">CiGri FF</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="identification" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Identification</h1>
+<div class="cell" data-hash="notes_cache/html/mika_plot_35e962efb2135b60d74d843843bc7786">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/mika_plot-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<section id="usage" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="usage"><span class="header-section-number">1.1</span> Usage</h2>
+<div class="cell" data-hash="notes_cache/html/usage_plot_7218e06c6b726eaa2f29b4c80d535d44">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/usage_plot-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+<section id="execution-times-and-waiting-times" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="execution-times-and-waiting-times"><span class="header-section-number">1.2</span> Execution Times and Waiting Times</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-5_fef5b8a8f8e4263c50d6dc57c60e45ca">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+<section id="gantt-chart" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="gantt-chart"><span class="header-section-number">1.3</span> Gantt Chart</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-6_e4f2c3f76f8bc641b1c9e065b83d55f9">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+</section>
+<section id="modelling" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Modelling</h1>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-7_06bbd76feb5d0822508f7b34c145809f">
+
+</div>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-8_d2260266063117f99c2f359622881dd8">
+
+</div>
+<section id="raph-plot" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="raph-plot"><span class="header-section-number">2.1</span> Raph Plot</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-9_959b16bbdf458d59edfd3a0c422f822a">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>We have actually a very simple model of the system:</p>
+<p><span class="math display">\[
+r(k + 1) + w(k + 1) = (1 - \alpha) r(k) + w(k) + u(k)
+\]</span></p>
+<p>where <span class="math inline">\(\alpha = \frac{\Delta t}{p_j}\)</span>, <span class="math inline">\(\Delta t\)</span> is the time between two CiGri submissions, and <span class="math inline">\(p_j\)</span> is the processing time of a job.</p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-10_824737062a9f2b54ad0ab2fd34b1eeb8">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>The annoying thing is that we cannot put this equation into a first order model form:</p>
+<p><span class="math display">\[
+y(k + 1) =  ay(k) + bu(k)
+\]</span></p>
+<p>There are actually two cases:</p>
+<ol type="1">
+<li><p>there are no job in the waiting queue</p></li>
+<li><p>there are jobs in the waiting queue</p></li>
+</ol>
+</section>
+<section id="no-job-in-the-waiting-queue" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="no-job-in-the-waiting-queue"><span class="header-section-number">2.2</span> No job in the waiting queue</h2>
+<p>In this case, <span class="math inline">\(w(k) = 0\)</span> and the above equation thus becomes:</p>
+<p><span class="math display">\[
+r(k + 1) + w(k + 1) = (1 - \alpha) r(k) + u(k) = (1-\alpha)(r(k) + w(k)) + u(k)
+\]</span></p>
+<p>This equation fits the first order model form with:</p>
+<ul>
+<li><p><span class="math inline">\(a = 1-\alpha\)</span></p></li>
+<li><p><span class="math inline">\(b = 1\)</span></p></li>
+</ul>
+</section>
+<section id="jobs-in-the-waiting-queue" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="jobs-in-the-waiting-queue"><span class="header-section-number">2.3</span> Jobs in the waiting queue</h2>
+<p>In this case, we are submitting more jobs than the cluster can process.</p>
+<p>The estimated processing rate of the cluster is: <span class="math inline">\(\alpha \times r_{\max}\)</span>.</p>
+<p>We can switch a bit our point of view and consider that when overloaded, the cluster does not consume the jobs in the waiting queue, but the jobs submitted.</p>
+<p><span class="math display">\[
+y(k+1) = y(k) + (u(k) - \beta)
+\]</span></p>
+<p>where <span class="math inline">\(\beta\)</span> is the rate of processing of the overloaded cluster.</p>
+<p>Intuitively:</p>
+<p><span class="math display">\[
+\beta = \alpha \times r_{\max}
+\]</span></p>
+</section>
+<section id="model-first-try" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="model-first-try"><span class="header-section-number">2.4</span> Model: First try</h2>
+<p>The model can then be:</p>
+<p><span class="math display">\[
+\begin{cases}
+y(k+1) = (1-\alpha)y(k) + u(k)\text{, if } u(k) &lt; \gamma\\
+y(k+1) = y(k) + (u(k) - \beta)\text{, if } u(k) &gt; \gamma
+\end{cases}
+\]</span></p>
+<p>where <span class="math inline">\(\gamma\)</span> is a threshold parameter.</p>
+<p>Intuitively, <span class="math inline">\(\gamma\)</span> is the maximum rate that does not overload the cluster:</p>
+<p><span class="math display">\[
+\gamma = \alpha \times r_{\max}
+\]</span></p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-11_de693f233ed51bafb389d95920eccd46">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>We can see that the cluster starts to overload before the model. The slope of the increase of <span class="math inline">\(y\)</span> of the model seems smaller than the actual data.</p>
+<p><strong>It thus seems that we will need to do a bit of identification on the parameters</strong>.</p>
+</section>
+<section id="model-with-small-identification" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="model-with-small-identification"><span class="header-section-number">2.5</span> Model: with small identification</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-12_c86d58ff5124038948615137dd100762">
+
+</div>
+<p>We performed a dichotomy on the <span class="math inline">\(\beta\)</span> and <span class="math inline">\(\gamma\)</span> parameters.</p>
+<p>We get:</p>
+<ul>
+<li><p><span class="math inline">\(\beta \simeq 0.84375 \times \alpha \times r_{\max}\)</span></p></li>
+<li><p><span class="math inline">\(\gamma \simeq 0.91 \times \alpha \times r_{\max}\)</span></p></li>
+</ul>
+<p>And we obtain the following model that seems to fit reasonably well the data.</p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-13_f7a41dd588c21006f1ec1963cf85fcb7">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-13-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+<section id="verification-on-non-step-input" class="level2" data-number="2.6">
+<h2 data-number="2.6" class="anchored" data-anchor-id="verification-on-non-step-input"><span class="header-section-number">2.6</span> Verification on non-step input</h2>
+<p>During the identificaion, we tried variation of input as steps. In this section, we will take the trace of a previous attempt for a controller and see how the model matches the output.</p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-14_548c25bb868fe8d57a4ee211381b4bd4">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-14-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>As we can see, the model gets the behaviour of the system.</p>
+<p>The noise of the real data comes from the reading of the sensor of OAR that can come at bad times, as seen in the Gantt chart above.</p>
+</section>
+</section>
+<section id="design-of-the-controller" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Design of the Controller</h1>
+<p>We follow the methodology in the Heillerstein book.</p>
+<section id="if-u-gamma" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="if-u-gamma"><span class="header-section-number">3.1</span> If <span class="math inline">\(u &lt; \gamma\)</span></h2>
+<ul>
+<li><p><span class="math inline">\(a = 1 - \alpha\)</span></p></li>
+<li><p><span class="math inline">\(b = 1\)</span></p></li>
+<li><p><span class="math inline">\(r = \exp \left(\frac{-4}{k_s}\right)\)</span></p></li>
+<li><p><span class="math inline">\(\theta = \pi \frac{\log r}{\log M_p}\)</span></p></li>
+</ul>
+<p><span class="math display">\[
+\begin{cases}
+    K_p = \frac{a - r^2}{b}\\
+    K_i = \frac{1 - 2\times r \times \cos(\theta) + r^2}{b}
+\end{cases}
+\]</span></p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-15_ddcbe40b960056cf91cd46b3f8ed6e25">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-15-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+<section id="if-u-gamma-1" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="if-u-gamma-1"><span class="header-section-number">3.2</span> If <span class="math inline">\(u &gt; \gamma\)</span></h2>
+<p>We define <span class="math inline">\(u' = u - \beta\)</span>.</p>
+<p>Then,</p>
+<p><span class="math display">\[
+y(k+1) = y(k) + u'(k)
+\]</span></p>
+<ul>
+<li><p><span class="math inline">\(a = 1\)</span></p></li>
+<li><p><span class="math inline">\(b = 1\)</span></p></li>
+</ul>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-16_3d635fea1f5d6ea16d13af8ebe901f9f">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-16-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p><strong>Note</strong>: The <span class="math inline">\(K_i\)</span> coef is the same because it does not depend on <span class="math inline">\(a\)</span>!</p>
+</section>
+<section id="pseudo-code" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="pseudo-code"><span class="header-section-number">3.3</span> Pseudo Code</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">class</span> Controller:</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, ...):</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.u <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.cum_error <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        <span class="co"># ...</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="kw">def</span> get_u(<span class="va">self</span>, error):</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.cum_error <span class="op">+=</span> error</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> <span class="va">self</span>.u <span class="op">&lt;</span> gamma:</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>            <span class="va">self</span>.u <span class="op">=</span> kp1 <span class="op">*</span> error <span class="op">+</span> ki1 <span class="op">*</span> <span class="va">self</span>.cum_error </span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>        <span class="cf">else</span>:</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>            <span class="va">self</span>.u <span class="op">=</span> kp2 <span class="op">*</span> error <span class="op">+</span> ki2 <span class="op">*</span> <span class="va">self</span>.cum_error <span class="op">+</span> beta  </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+</section>
+<section id="state-space-variable" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> State Space Variable</h1>
+<p><span class="math display">\[
+x(k) =
+\begin{pmatrix}
+r_{\max} \\
+r(k) \\
+s(k) \\
+w(k)
+\end{pmatrix}
+\]</span></p>
+<p><span class="math display">\[
+x(k+1) = A x(k) + B u(k)
+\]</span></p>
+<p>where:</p>
+<p><span class="math display">\[
+A =
+\begin{pmatrix}
+1 &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; 1-\alpha &amp; 1 &amp; 0 \\
+1 &amp; -\alpha &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; -1 &amp; 1
+\end{pmatrix}
+\]</span></p>
+<p>and,</p>
+<p><span class="math display">\[
+B =
+\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+1
+\end{pmatrix}
+\]</span></p>
+<section id="lets-try" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="lets-try"><span class="header-section-number">4.1</span> Let’s try</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-17_d0fe60eaad796d566c67b075f9afbb88">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-17-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>It does not work because the waiting queue will become negative. But even if we restrain it, there is one more issue. The number of submitted jobs should be: <span class="math inline">\(\min (w(k), r_{\max} - r(k))\)</span> We can express the <span class="math inline">\(\min\)</span> as a <span class="math inline">\(\min (a, b) = \frac{1}{2}(a + b - |a-b|)\)</span>, but we cannot express the absolute value in the matrix product.</p>
+<p>We can try on a non step input:</p>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-18_006451ceb45f380209ffb82c0d322232">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-18-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p><strong>Fuck</strong>! It’s actually not that bad! And it has both behaviors on a single model. It is of course not perfect. The identification one is quite striking. Maybe with more precise identification it could be better.</p>
+</section>
+<section id="details" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="details"><span class="header-section-number">4.2</span> Details</h2>
+<div class="cell" data-hash="notes_cache/html/unnamed-chunk-19_8e444d4abc912e69dc47baecd9c68208">
+<div class="cell-output-display">
+<p><img src="notes_files/figure-html/unnamed-chunk-19-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+<script src="notes_files/libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
