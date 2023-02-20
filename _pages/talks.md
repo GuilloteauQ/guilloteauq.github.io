@@ -6,6 +6,10 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- Feb 2023 - [Meeting PULSE](https://www.inria.fr/en/pulse): Autonomic Management of Idle HPC Resource Harvesting ([slides]({{ site.url }}/downloads/slides/lig_wax_2022_guilloteau.pdf))
+
+- Feb 2023 - [Datamove Seminar](https://team.inria.fr/datamove/): Demo of the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/tuto_nix_compas22.pdf))
+
 - Sept 2022 - [CARLA 22](http://carla22.org/index.html): Tutorial on Reproducible Environments ([slides]({{ site.url }}/downloads/slides/carla_nix_22.pdf))
 
 - Sept 2022 - [CLUSTER 22](https://clustercomp.org/2022/):Painless Transposition of Reproducible Distributed Environments with NixOS Compose  ([slides]({{ site.url }}/downloads/slides/cluster22.pdf))
