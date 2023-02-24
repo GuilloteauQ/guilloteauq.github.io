@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- Feb 2023 - [Workshop OAR-BatSim-NixOS Compose](https://regale-project.eu/): Presentation and Tutorial on NixOS Compose ([slides]({{ site.url }}/downloads/slides/regale_nxc.pdf))
+
 - Feb 2023 - [Meeting PULSE](https://www.inria.fr/en/pulse): Autonomic Management of Idle HPC Resource Harvesting ([slides]({{ site.url }}/downloads/slides/lig_wax_2022_guilloteau.pdf))
 
 - Feb 2023 - [Datamove Seminar](https://team.inria.fr/datamove/): Demo of the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/tuto_nix_compas22.pdf))
