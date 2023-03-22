@@ -7,9 +7,11 @@ navigation_weight: 1
 
 ## Who am I ?
 
-I am a 2nd year PhD Student in Computer Science at [Université Grenoble Alpes (UGA)](https://www.univ-grenoble-alpes.fr/) in Grenoble, France and hosted in the [LIG Ctrl-A](https://team.inria.fr/ctrl-a/) and [LIG Datamove](https://team.inria.fr/datamove/) teams.
+I am a 3rd year PhD Student in Computer Science at [Université Grenoble Alpes (UGA)](https://www.univ-grenoble-alpes.fr/) in Grenoble, France and hosted in the [LIG Ctrl-A](https://team.inria.fr/ctrl-a/) and [LIG Datamove](https://team.inria.fr/datamove/) teams.
 
 I am working on: [*Autonomic approach to runtime management of HPC cluster resources*](https://theses.fr/s245425) under the supervision of [Eric Rutten](https://team.inria.fr/ctrl-a/members/eric-rutten/) and [Olivier Richard](http://datamove.imag.fr/olivier.richard/). 
+
+**Currently looking for a post-doc starting in 2024!**
 
 
 ## Contact

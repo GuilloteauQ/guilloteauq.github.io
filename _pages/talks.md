@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- Mar 2023 - [15th JLESC](https://events.hifis.net/event/617/): Folding a Cluster containing a Distributed File-System ([slides]({{ site.url }}/downloads/slides/jlesc_folding.pdf))
+
 - Feb 2023 - [Workshop OAR-BatSim-NixOS Compose](https://regale-project.eu/): Presentation and Tutorial on NixOS Compose ([slides]({{ site.url }}/downloads/slides/regale_nxc.pdf))
 
 - Feb 2023 - [Meeting PULSE](https://www.inria.fr/en/pulse): Autonomic Management of Idle HPC Resource Harvesting ([slides]({{ site.url }}/downloads/slides/lig_wax_2022_guilloteau.pdf))
@@ -30,7 +32,7 @@ A list of some talk I gave:
 
 - April 2022 - [LIG PhD Days](https://www.liglab.fr/en/home): 2 Minutes Madness (Best Presentation Award) ([slides]({{ site.url }}/downloads/slides/Quentin_Guilloteau_CtrlA.pdf))
 
-- Mars 2022 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/):  Model-Free Control for Resource Harvesting in Computing Grids
+- Mar 2022 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/):  Model-Free Control for Resource Harvesting in Computing Grids
 
 - Dec 2021 - [13th JLESC](https://icl.utk.edu/jlesc13/): Non Intrusive Harvesting of Idle Grid Resources with a Control Based Approach ([slides]({{ site.url }}/downloads/slides/jlesc.pdf))
 
