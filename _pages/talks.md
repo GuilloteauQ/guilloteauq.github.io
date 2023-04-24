@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- April 2023 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
+
 - Mar 2023 - [15th JLESC](https://events.hifis.net/event/617/): Folding a Cluster containing a Distributed File-System ([slides]({{ site.url }}/downloads/slides/jlesc_folding.pdf))
 
 - Feb 2023 - [Workshop OAR-BatSim-NixOS Compose](https://regale-project.eu/): Presentation and Tutorial on NixOS Compose ([slides]({{ site.url }}/downloads/slides/regale_nxc.pdf))
