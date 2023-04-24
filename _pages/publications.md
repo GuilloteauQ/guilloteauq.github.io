@@ -27,3 +27,11 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 # Theses
 
 - Quentin Guilloteau. **Minimizing Cluster Under-use using a Control-Based Approach**, *Master Thesis*, [hal-03167242](https://hal.archives-ouvertes.fr/hal-03167242/), [pdf](https://hal.archives-ouvertes.fr/hal-03167242/file/M2_report_Quentin_Guilloteau.pdf)
+
+# Tutorials
+
+I wrote and presented the following tutorials:
+
+- [Under-Control: A Control Theory Introduction for Computer Scientists](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html)
+
+- [Reproducible Distributed Environments with NixOS Compose](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/)
