@@ -24,6 +24,12 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 - Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten. **Collecte de ressources libres dans une grille en préservant le système de fichiers: une approche autonomique**, *COMPAS 2021 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-03282727](https://hal.inria.fr/hal-03282727/), [pdf](https://hal.inria.fr/hal-03282727/file/COMPAS21_Guilloteau_collecte_ressources_libres_approche_autonomique.pdf)
 
+# Preprints, Working Papers
+
+- Quentin Guilloteau. **Simulating a Multi-Layered Grid Middleware**, [hal-04101015](https://hal.science/hal-04101015), [pdf](https://hal.science/hal-04101015v1/file/batcigri.pdf)
+
+- Quentin Guilloteau, Olivier Richard, Raphaël Bleuse, Eric Rutten. **Folding a Cluster containing a Distributed File-System**, [hal-04038000](https://hal.science/hal-04038000), [pdf](https://hal.science/hal-04038000v1/file/main.pdf), [slides]({{ site.url }}/downloads/slides/jlesc_folding.pdf)
+
 # Theses
 
 - Quentin Guilloteau. **Minimizing Cluster Under-use using a Control-Based Approach**, *Master Thesis*, [hal-03167242](https://hal.archives-ouvertes.fr/hal-03167242/), [pdf](https://hal.archives-ouvertes.fr/hal-03167242/file/M2_report_Quentin_Guilloteau.pdf)
