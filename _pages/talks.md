@@ -6,6 +6,10 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- June 2023 - [LIG](https://www.liglab.fr/fr): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
+
+- June 2023 - [LIG WAX](https://www.liglab.fr/fr)-[GLSI](https://www.liglab.fr/fr/recherche/axes-recherche/genie-des-logiciels-et-des-systemes-dinformation): Reusability of Autonomic Controllers in High Performance Computing ([slides]({{ site.url }}/downloads/slides/wax_glsi_reuse_2023.pdf))
+
 - April 2023 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
 
 - Mar 2023 - [15th JLESC](https://events.hifis.net/event/617/): Folding a Cluster containing a Distributed File-System ([slides]({{ site.url }}/downloads/slides/jlesc_folding.pdf))
