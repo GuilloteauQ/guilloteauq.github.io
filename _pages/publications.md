@@ -30,6 +30,8 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 - Quentin Guilloteau, Olivier Richard, Raphaël Bleuse, Eric Rutten. **Folding a Cluster containing a Distributed File-System**, [hal-04038000](https://hal.science/hal-04038000), [pdf](https://hal.science/hal-04038000v1/file/main.pdf), [slides]({{ site.url }}/downloads/slides/jlesc_folding.pdf)
 
+- Quentin Guilloteau. **Parallel Dithering: How fast can we go?**, [hal-03594790](https://hal.science/hal-03594790/), [pdf](https://hal.science/hal-03594790/document)
+
 # Theses
 
 - Quentin Guilloteau. **Minimizing Cluster Under-use using a Control-Based Approach**, *Master Thesis*, [hal-03167242](https://hal.archives-ouvertes.fr/hal-03167242/), [pdf](https://hal.archives-ouvertes.fr/hal-03167242/file/M2_report_Quentin_Guilloteau.pdf)
