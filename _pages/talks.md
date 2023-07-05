@@ -6,6 +6,8 @@ navigation_weight: 5
 
 A list of some talk I gave:
 
+- July 2023 - [Compas 23](https://2023.compas-conference.fr/programme): Comment rater la reproductibilité de ses expériences ? [slides]({{ site.url }}/dowloads/slides/copmas_rater_repro.pdf))
+
 - July 2023 - [Compas 23](https://2023.compas-conference.fr/tutoriaux): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
 
 - June 2023 - [LIG](https://www.liglab.fr/fr): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
