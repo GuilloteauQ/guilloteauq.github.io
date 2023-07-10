@@ -13,6 +13,18 @@ I am working on: [*Autonomic approach to runtime management of HPC cluster resou
 
 **Currently looking for a post-doc starting in 2024!**
 
+## Research Interests
+
+- Distributed Systems
+
+- Reproducible Research
+
+- Distributed Experimentation
+
+- Performance Evaluation
+
+- Autonomic Computing
+
 
 ## Contact
 
