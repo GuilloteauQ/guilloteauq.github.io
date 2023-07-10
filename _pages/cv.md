@@ -6,6 +6,7 @@ navigation_weight: 2
 
 # CV
 
+[Download the pdf version (July 2023)]({{ site.url }}/downloads/CV_Guilloteau_Quentin_july23.pdf)
 
 ## Education
 
@@ -45,6 +46,3 @@ navigation_weight: 2
 ## Programming skills
 
 C, Python, Git, Rust, LaTeX, R, Nix(OS), Snakemake
-
-
-([Download the pdf version (July 2023)]({{ site.url }}/downloads/CV_Guilloteau_Quentin_july23.pdf))
