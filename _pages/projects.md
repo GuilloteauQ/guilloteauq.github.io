@@ -1,7 +1,7 @@
 ---
 title: Projects
 permalink: /projects/
-navigation_weight: 3
+# navigation_weight: 3
 ---
 
 ## Projects

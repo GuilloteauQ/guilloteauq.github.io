@@ -9,9 +9,11 @@ navigation_weight: 2
 
 ## Education
 
-* Sept. 2018 - Current: **Master Student in Computer Science** at [MoSIG](http://mosig.imag.fr) (Grenoble, France). Expected graduation: June 2020
+* Oct. 2020 - Sept. 2023: **PhD Student in Computer Science** at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) (Grenoble, France)
 
-* Sept. 2017 - Current: **Student in Computer Science** at [ENSIMAG](http://ensimag.grenoble-inp.fr) (Grenoble, France). Expected graduation: June 2020
+* Sept. 2018 - June 2020: **Master Student in Computer Science** at [MoSIG](http://mosig.imag.fr) (Grenoble, France)
+
+* Sept. 2017 - June 2020: **Student in Computer Science** at [ENSIMAG](http://ensimag.grenoble-inp.fr) (Grenoble, France)
 
 * Sept. 2015 - July 2017: **Intensive 2-year degree in Maths, Physics and Computer Science**, to prepare for the admission to the main engineering schools, at Lycee Camille Guerin (Poitiers, France)
 
@@ -20,11 +22,15 @@ navigation_weight: 2
 
 ## Internships
 
-* Jan-Jun 2019: Research Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust ([more](/internships/adaptive_mergesort))
+* Feb-Jun 2020: Research Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Autonomic regulation of the submission of flexible HPC tasks to use the idle resources of a set of clusters
 
-* Jul-Aug 2018: Summer Intern at [Alstom](http://www.alstom.com) (La Rochelle, France): Developed tools allowing automatic and faster data processing in order to create Fire Safety files for a train, based on the Bill of Materials.  ([more](/internships/alstom))
+* Jun-Sep 2019: Software Intern at [Tait Communications](https://www.taitcommunications.com/) (Christchurch, New-Zealand): Developed an adaptor in Rust between the base-station and the server
 
-* Jun 2018: Summer Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon) ([more](/internships/rayon_logs))
+* Jan-Jun 2019: Research Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Research on adaptive parallel mergesort in Rust
+
+* Jul-Aug 2018: Summer Intern at [Alstom](http://www.alstom.com) (La Rochelle, France): Developed tools allowing automatic and faster data processing in order to create Fire Safety files for a train, based on the Bill of Materials.
+
+* Jun 2018: Summer Intern at [LIG](http://www.liglab.fr/en) (Grenoble, France): Helped developing a tasks logging extension for [Rayon](https://github.com/rayon-rs/rayon)
 
 
 ## Languages
@@ -38,7 +44,7 @@ navigation_weight: 2
 
 ## Programming skills
 
-C, Python, Git, Rust, LaTeX, Java
+C, Python, Git, Rust, LaTeX, R, Nix(OS), Snakemake
 
 
-([Download the pdf version (April 2019)]({{ site.url }}/downloads/Resume_Guilloteau_Quentin.pdf))
+([Download the pdf version (July 2023)]({{ site.url }}/downloads/CV_Guilloteau_Quentin_july23.pdf))

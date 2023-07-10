@@ -1,7 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
-navigation_weight: 4
+navigation_weight: 3
 ---
 
 Here is the list of my publications.
