@@ -11,10 +11,6 @@ I am a 3rd year PhD Student in Computer Science at [Université Grenoble Alpes (
 
 I am working on: [*Autonomic approach to runtime management of HPC cluster resources*](https://theses.fr/s245425) under the supervision of [Eric Rutten](https://team.inria.fr/ctrl-a/members/eric-rutten/) and [Olivier Richard](http://datamove.imag.fr/olivier.richard/). 
 
-<span style="color:red;font-weight:700;font-size:25px">
-Currently looking for a post-doc starting in 2024!
-</span>
-
 
 ## Research Interests
 

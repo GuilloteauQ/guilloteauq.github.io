@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- November 2023 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/): Thesis Defense Rehearsal: Control-based runtime management of HPC systems with support for reproducible experiments
+
 - July 2023 - [Compas 23](https://2023.compas-conference.fr/programme): Comment rater la reproductibilité de ses expériences ? ([slides]({{ site.url }}/downloads/slides/compas_rater_repro.pdf))
 
 - July 2023 - [Compas 23](https://2023.compas-conference.fr/tutoriaux): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
