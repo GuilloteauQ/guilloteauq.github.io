@@ -1,6 +1,6 @@
 ---
 title: Thesis Defense
-permalink: /publications/
+permalink: /defense/
 ---
 
 
