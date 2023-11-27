@@ -17,13 +17,13 @@ The visio link is not set yet but will be updated here.**
 
 # Jury:
 
-- Alexandru COSTAN (INSA Rennes, IRISA) - Associate Professor, HDR - Reviewer
-- Alessandro PAPADOPOULOS (Mälardalen University) - Professor - Reviewer
-- Fabienne BOYER (Université Grenoble Alpes) - Associate Professor, HDR - Examiner
-- Georges DA COSTA (Université Paul Sabatier) - Professor - Examiner
-- Noël DE PALMA (Université Grenoble Alpes) - Professor - Examiner
-- Eric RUTTEN (Inria Grenoble) - Chargé de recherche, HDR - Thesis director
-- Olivier RICHARD (Université Grenoble Alpes) - Associate Professor - Thesis co-director 
+- Alexandru COSTAN (INSA Rennes, IRISA) - Maître de conférence, HDR - Rapporteur
+- Alessandro PAPADOPOULOS (Mälardalen University) - Professeur - Rapporteur
+- Fabienne BOYER (Université Grenoble Alpes) - Maîtresse de conférence, HDR - Examinatrice
+- Georges DA COSTA (Université Paul Sabatier) - Professeur - Examinateur
+- Noël DE PALMA (Université Grenoble Alpes) - Professeur - Examinateur
+- Eric RUTTEN (Inria Grenoble) - Chargé de recherche, HDR - Directeur de thèse
+- Olivier RICHARD (Université Grenoble Alpes) - Maître de conférence - Co-encadrant de thèse
 
 
 # Abstract: 
