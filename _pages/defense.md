@@ -8,6 +8,8 @@ I am pleased to invite you to the defense of my Ph.D. thesis entitled:
 
     "Control-based runtime management of HPC systems with support for reproducible experiments"
 
+[Current version of the manuscript](https://cloud.univ-grenoble-alpes.fr/s/bmdzdzm92w4jzq8)
+
 # Date and place:
 
 **December 11th, 10am CET**, at the Amphitheater of the Bâtiment IMAG, 150 place du Torrent, 38401 Saint Martin d'Hères
