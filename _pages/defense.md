@@ -14,8 +14,7 @@ I am pleased to invite you to the defense of my Ph.D. thesis entitled:
 
 **December 11th, 10am CET**, at the Amphitheater of the Bâtiment IMAG, 150 place du Torrent, 38401 Saint Martin d'Hères
 
-**It will be possible to attend remotely.
-The visio link is not set yet but will be updated here.**
+**NEW** Zoom link: https://univ-grenoble-alpes-fr.zoom.us/j/91564053098?pwd=RWZheVJiWldncUx6S2M0b01qdzhHdz09
 
 # Jury:
 
