@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- December 2023 - Thesis Defense: Control-based runtime management of HPC systems with support for reproducible experiments ([slides]({{ site.url }}/downloads/slides/slides_defense.pdf))
+
 - November 2023 - [Ctrl-A Seminar](https://team.inria.fr/ctrl-a/members/eric-rutten/labex/staars-seminars-html/): Thesis Defense Rehearsal: Control-based runtime management of HPC systems with support for reproducible experiments
 
 - July 2023 - [Compas 23](https://2023.compas-conference.fr/programme): Comment rater la reproductibilité de ses expériences ? ([slides]({{ site.url }}/downloads/slides/compas_rater_repro.pdf))

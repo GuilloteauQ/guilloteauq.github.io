@@ -7,13 +7,9 @@ navigation_weight: 1
 
 ## Who am I ?
 
-I am a 3rd year PhD Student in Computer Science at [Université Grenoble Alpes (UGA)](https://www.univ-grenoble-alpes.fr/) in Grenoble, France and hosted in the [LIG Ctrl-A](https://team.inria.fr/ctrl-a/) and [LIG Datamove](https://team.inria.fr/datamove/) teams.
+I am currently a Post-Doc at the University of Basel, Switzerland, in the [DMI-HPC](https://hpc.dmi.unibas.ch/) group led by [Florina Ciorba](https://hpc.dmi.unibas.ch/people/florina-ciorba/).
 
-I am working on: [*Autonomic approach to runtime management of HPC cluster resources*](https://theses.fr/s245425) under the supervision of [Eric Rutten](https://team.inria.fr/ctrl-a/members/eric-rutten/) and [Olivier Richard](http://datamove.imag.fr/olivier.richard/). 
-
-<span style="color:red;font-weight:700;font-size:25px">
-I am defending my thesis on December 11th 10am CET: learn more [here]({{ site.url }}/defense)
-</span>
+I am working on [DAPHNE](https://daphne-eu.eu/), an open and extensible system infrastructure for integrated data analysis pipelines combining data management and query processing, machine learning training and scoring, as well as high-performance computing and simulations.
 
 
 ## Research Interests
@@ -31,14 +27,11 @@ I am defending my thesis on December 11th 10am CET: learn more [here]({{ site.ur
 
 ## Contact
 
-* Email: Firstname.Lastname@univ-grenoble-alpes.fr
+* Email: Firstname.Lastname@unibas.ch
 
 * Offices:
 
-    * [Inria GIANT office](https://www.openstreetmap.org/search?whereami=1&query=45.19656%2C5.70868#map=19/45.19656/5.70868) (office C222):
-
-    * [IMAG Building](https://www.openstreetmap.org/relation/6158280#map=19/45.19021/5.76717) (office 431)
-
+    * [DMI](https://www.openstreetmap.org/node/5718182589#map=18/47.56019/7.58816)
 
 * Github: [GuilloteauQ](https://github.com/GuilloteauQ)
 
