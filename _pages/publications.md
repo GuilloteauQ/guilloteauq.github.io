@@ -12,6 +12,8 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 # Conferences/Workshop
 
+- Quentin Guilloteau, Florina M. Ciorba, Millian Poquet, Dorian Goepp, Olivier Richard. **Longevity of Artifacts in Leading Parallel and Distributed Systems Conferences: a Review of the State of the Practice in 2023**. *ACM Conference on Reproducibility and Replicability (REP 2024)*, [hal-04562691](https://hal.science/hal-04562691), [pdf](https://hal.science/hal-04562691/file/rep24_longevity_artifacts.pdf)
+
 - Quentin Guilloteau, Adrien Faure, Millian Poquet, Olivier Richard. **Comment rater la reproductibilité de ses expériences?**. *COMPAS 2023 - Conférence d'informatique en Parallèlism, Architecture et Système*, [hal-04132438](https://hal.science/hal-04132438), [pdf](https://hal.science/hal-04132438v1/file/rater_repro.pdf)
 
 - Quentin Guilloteau, Jonathan Bleuzen, Millian Poquet, Olivier Richard. **Painless Transposition of Reproducible Distributed Environments with NixOS Compose**. *CLUSTER22 - 2022 IEEE International Conference on Cluster Computing*, [hal-03723771](https://hal.archives-ouvertes.fr/hal-03723771), [pdf](https://hal.archives-ouvertes.fr/hal-03723771/document)
@@ -35,6 +37,8 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 - Quentin Guilloteau. **Parallel Dithering: How fast can we go?**, [hal-03594790](https://hal.science/hal-03594790/), [pdf](https://hal.science/hal-03594790/document)
 
 # Theses
+
+- Quentin Guilloteau. **Control-based runtime management of HPC systems with support for reproducible experiments**, *PhD Thesis*, [tel-04389290](https://hal.science/tel-04389290), [pdf](https://hal.science/tel-04389290v1/file/manuscript_quentin_guilloteau.pdf), [slides](https://hal.science/tel-04389290v1/file/slides_quentin_guilloteau.pdf)
 
 - Quentin Guilloteau. **Minimizing Cluster Under-use using a Control-Based Approach**, *Master Thesis*, [hal-03167242](https://hal.archives-ouvertes.fr/hal-03167242/), [pdf](https://hal.archives-ouvertes.fr/hal-03167242/file/M2_report_Quentin_Guilloteau.pdf)
 
