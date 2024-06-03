@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- June 2024 - [FlexScience @HPDC24](https://sites.google.com/view/flexscience): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
+
 - April 2024 - University of Basel: Invited lecturer on "Resilience and Reproducibility in HPC"
 
 - December 2023 - Thesis Defense: Control-based runtime management of HPC systems with support for reproducible experiments ([slides]({{ site.url }}/downloads/slides/slides_defense.pdf))
