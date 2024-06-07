@@ -61,6 +61,6 @@ I wrote and presented the following tutorials:
 
 # Posters
 
-- Quentin Guilloteau, Florina M. Ciorba. **Reproduciblity in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities**, *Swiss Reproducibility Conference 2024*, pdf to appear
+- Quentin Guilloteau, Florina M. Ciorba. **Reproducibility in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities**, *Swiss Reproducibility Conference 2024*, [hal-04601351](https://hal.science/hal-04601351), [pdf](https://hal.science/hal-04601351/document)
 
 - Quentin Guilloteau. **Autonomic Approach to the Runtime Management of HPC Cluster Resources**, *LIG PhD Day 2022*, [hal-04570283](https://hal.science/hal-04570283), [pdf](https://hal.science/hal-04570283/file/poster.pdf)
