@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- June 2024 - [Swiss Reproducibility Conference](https://reproducibility.ch): Poster presentation "Reproducibility in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities" ([poster](https://hal.science/hal-04601351/document))
+
 - June 2024 - [FlexScience @HPDC24](https://sites.google.com/view/flexscience): Tutorial "Under-Control: a Control Theory Introduction for Computer Scientists" ([webpage](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), [slides](https://gitlab.inria.fr/control-for-computing/tutorial/-/jobs/artifacts/master/raw/slides.pdf?job=slides))
 
 - April 2024 - University of Basel: Invited lecturer on "Resilience and Reproducibility in HPC"
