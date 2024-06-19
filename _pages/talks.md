@@ -6,9 +6,9 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
-- June 2024 - [ACM REP24](https://acm-rep.github.io/2024/): Longevity Of Artifacts In Leading Parallel And Distributed Systems Conferences: A Review Of The State Of The Practice In 2023, [slides]({{ site.url }}/downloads/slides/slides_acm_rep24.pdf)
+- June 2024 - [ACM REP24](https://acm-rep.github.io/2024/): Longevity Of Artifacts In Leading Parallel And Distributed Systems Conferences: A Review Of The State Of The Practice In 2023, ([slides]({{ site.url }}/downloads/slides/slides_acm_rep24.pdf))
 
-- June 2024 - [ACM REP24](https://acm-rep.github.io/2024/): Tutorial "Reproducible distributed environments with NixOS Compose" [slides]({{ site.url }}/downloads/slides_tutorial.pdf), [tutorial](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/)
+- June 2024 - [ACM REP24](https://acm-rep.github.io/2024/): Tutorial "Reproducible distributed environments with NixOS Compose" ([slides]({{ site.url }}/downloads/slides_tutorial.pdf), [webpage](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/))
 
 - June 2024 - [Swiss Reproducibility Conference](https://reproducibility.ch): Poster presentation "Reproducibility in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities" ([poster](https://hal.science/hal-04601351/document))
 
