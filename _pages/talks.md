@@ -6,9 +6,9 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
-- July 2024 - [Compas 24](https://2023.compas-conference.fr/programme): Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose, ([Dorian Goepp's slides]({{ site.url }}/downloads/slides/slides_compas_dorian.pdf))
+- July 2024 - [Compas 24](https://2024.compas-conference.fr/programme): Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose, ([Dorian Goepp's slides]({{ site.url }}/downloads/slides/slides_compas_dorian.pdf))
 
-- July 2024 - [Compas 24](https://2023.compas-conference.fr/programme): Seamlessly Scaling Applications with DAPHNE, ([slides]({{ site.url }}/downloads/slides/slides_compas_daphne24.pdf))
+- July 2024 - [Compas 24](https://2024.compas-conference.fr/programme): Seamlessly Scaling Applications with DAPHNE, ([slides]({{ site.url }}/downloads/slides/slides_compas_daphne24.pdf))
 
 - June 2024 - [ACM REP24](https://acm-rep.github.io/2024/): Longevity Of Artifacts In Leading Parallel And Distributed Systems Conferences: A Review Of The State Of The Practice In 2023, ([slides]({{ site.url }}/downloads/slides/slides_acm_rep24.pdf))
 
