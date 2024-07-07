@@ -27,7 +27,7 @@ adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Tec
 
 - Dorian Goepp, Samuel Brun, Quentin Guilloteau, Olivier Richard. **Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose**. *COMPAS 2024 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-04632952](https://hal.science/hal-04632952), [pdf](https://hal.science/hal-04632952v1/file/main.pdf)
 
-- Quentin Guilloteau, Jonas H. Muller Korndorfer, Florina M. Ciorba. **Seamlessly Scaling Applications with DAPHNE**. *COMPAS 2024 - Conférence d'informatique en Parallèlisme, Architecture et Système*, pdf to appear
+- Quentin Guilloteau, Jonas H. Muller Korndorfer, Florina M. Ciorba. **Seamlessly Scaling Applications with DAPHNE**. *COMPAS 2024 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-04637841](https://hal.science/hal-04637841), [pdf](https://hal.science/hal-04637841/document)
 
 - Quentin Guilloteau, Adrien Faure, Millian Poquet, Olivier Richard. **Comment rater la reproductibilité de ses expériences?**. *COMPAS 2023 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-04132438](https://hal.science/hal-04132438), [pdf](https://hal.science/hal-04132438v1/file/rater_repro.pdf)
 
