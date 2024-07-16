@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- July 2024 - [DMI-HPC Retreat](https://hpc.dmi.unibas.ch/): Reproducibility Hackathon, ([slides]({{ site.url }}/downloads/slides/slides-reprohack.pdf))
+
 - July 2024 - [DMI-HPC Retreat](https://hpc.dmi.unibas.ch/): Introduction to Software Heritage, ([slides]({{ site.url }}/downloads/slides/slides-swh.pdf))
 
 - July 2024 - [Compas 24](https://2024.compas-conference.fr/programme): Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose, ([Dorian Goepp's slides]({{ site.url }}/downloads/slides/slides_compas_dorian.pdf))
