@@ -55,9 +55,9 @@ adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Tec
 
 I wrote and presented the following tutorials:
 
-- [Under-Control: A Control Theory Introduction for Computer Scientists](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html)
+- Quentin Guilloteau, Sophie Cerf, Raphaël Bleuse, Bogdan Robu and Eric Rutten. [**Under Control: A Control Theory Introduction for Computer Scientists**](https://control-for-computing.gitlabpages.inria.fr/tutorial/intro.html), *ACSOS 2024 - International Conference on Autonomic Computing and Self-Organizing Systems*, [hal-04666859](https://hal.science/hal-04666859), [pdf](https://hal.science/hal-04666859/document)
 
-- [Reproducible Distributed Environments with NixOS Compose](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/)
+- Dorian Goepp, Fernando Ayats Llamas, Olivier Richard and Quentin Guilloteau. [**Reproducible Distributed Environments with NixOS Compose**](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/), [hal-04613983](https://hal.science/hal-04613983), [pdf](https://hal.science/hal-04613983/document)
 
 # Posters
 
