@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- July 2024 - [DMI-HPC Seminar](https://hpc.dmi.unibas.ch/): Presentation of the Nix Package Manager, ([slides]({{ site.url }}/downloads/slides/nix-dmi.pdf))
+
 - July 2024 - [DMI-HPC Retreat](https://hpc.dmi.unibas.ch/): Reproducibility Hackathon, ([slides]({{ site.url }}/downloads/slides/slides-reprohack.pdf))
 
 - July 2024 - [DMI-HPC Retreat](https://hpc.dmi.unibas.ch/): Introduction to Software Heritage, ([slides]({{ site.url }}/downloads/slides/slides-swh.pdf))
