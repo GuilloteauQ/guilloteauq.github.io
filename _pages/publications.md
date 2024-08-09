@@ -13,7 +13,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 # International Conferences
 
 - Rosa Pagano, Sophie Cerf, Bogdan Robu, Quentin Guilloteau, Raphaël Bleuse, Eric Rutten. **Making control in High Performance Computing for overload avoidance
-adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Technology and Applications*, pdf to appear
+adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Technology and Applications*, [hal-04669743](https://hal.science/hal-04669743), [pdf](https://hal.science/hal-04669743/document)
 
 - Quentin Guilloteau, Florina M. Ciorba, Millian Poquet, Dorian Goepp, Olivier Richard. **Longevity of Artifacts in Leading Parallel and Distributed Systems Conferences: a Review of the State of the Practice in 2023**. *ACM Conference on Reproducibility and Replicability (REP 2024)*, [hal-04562691](https://hal.science/hal-04562691), [pdf](https://hal.science/hal-04562691/file/rep24_longevity_artifacts.pdf)
 
