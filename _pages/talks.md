@@ -6,6 +6,8 @@ navigation_weight: 4
 
 A list of some talk I gave:
 
+- Sept. 2024 - [AAU-DAPHNE Mini-Workshop](https://www.en.aau.dk/): Demonstration of the Knobs of DAPHNE's Scheduler ([content](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://bitbucket.org/unibasdmihpc/daphne-mini-workshop-demo&timestamp=2024-09-17T14:53:48.797145%2B00:00))
+
 - July 2024 - [DMI-HPC Seminar](https://hpc.dmi.unibas.ch/): Presentation of the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/nix-dmi.pdf))
 
 - July 2024 - [DMI-HPC Retreat](https://hpc.dmi.unibas.ch/): Reproducibility Hackathon ([slides]({{ site.url }}/downloads/slides/slides-reprohack.pdf))
