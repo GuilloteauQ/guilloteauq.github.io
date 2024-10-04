@@ -1,7 +1,7 @@
 ---
 title: Activities
 permalink: /activities/
-navigation_weight: 6
+navigation_weight: 4
 ---
 
 # Committees
