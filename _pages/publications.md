@@ -37,7 +37,9 @@ adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Tec
 
 - Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten. **Collecte de ressources libres dans une grille en préservant le système de fichiers: une approche autonomique**, *COMPAS 2021 - Conférence d'informatique en Parallèlisme, Architecture et Système*, [hal-03282727](https://hal.inria.fr/hal-03282727/), [pdf](https://hal.inria.fr/hal-03282727/file/COMPAS21_Guilloteau_collecte_ressources_libres_approche_autonomique.pdf)
 
-# Preprints, Working Papers
+# Workshops, Preprints, Working Papers
+
+- Quentin Guilloteau, Millian Poquet, Jonas H Müller Korndörfer, Florina M Ciorba. **Artifact Evaluations as Authors and Reviewers : Lessons, Questions, and Frustrations**, *Community Workshop on Practical Reproducibility in HPC 2024*, [hal-04764265](https://hal.science/hal-04764265/), [proposal](https://hal.science/hal-04764265/file/proposal.pdf), [slides](https://hal.science/hal-04764265/file/slides_guilloteau_ae_authors_reviewers_lessons_questions_frustrations.pdf)
 
 - Quentin Guilloteau. **Simulating a Multi-Layered Grid Middleware**, [hal-04101015](https://hal.science/hal-04101015), [pdf](https://hal.science/hal-04101015v1/file/batcigri.pdf)
 
