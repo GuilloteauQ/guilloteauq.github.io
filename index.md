@@ -33,11 +33,11 @@ You can find my CV [here]({{ site.url }}/downloads/CV_Guilloteau_Quentin_2024100
 
 ## Contact
 
-* Email: Firstname.Lastname@unibas.ch
+* Email: Firstname.Lastname@inria.fr
 
 * Offices:
 
-    * [DMI](https://www.openstreetmap.org/node/5718182589#map=18/47.56019/7.58816)
+    * [LIP](https://www.openstreetmap.org/#map=19/45.729718/4.826695)
 
 * Github: [GuilloteauQ](https://github.com/GuilloteauQ)
 
