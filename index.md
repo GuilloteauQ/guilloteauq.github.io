@@ -7,7 +7,7 @@ navigation_weight: 1
 
 ## Who am I ?
 
-I am currently a Post-Doc at INRIA Lyon, France, in the [AVALON](https://avalon.ens-lyon.fr) team led by [Christian Perez](https://graal.ens-lyon.fr/~cperez/web/doku.php/start).
+I am currently a Post-Doc at INRIA, LIP, in Lyon - France, in the [AVALON](https://avalon.ens-lyon.fr) team led by [Christian Perez](https://graal.ens-lyon.fr/~cperez/web/doku.php/start).
 
 I am working on the [Concerto reconfiguration model](https://gitlab.inria.fr/VeRDi-project/concerto) in the context of the [Taranis project](https://pepr-cloud.fr/fr/projet-taranis/) of the [PERP Cloud](https://pepr-cloud.fr/fr/).
 
