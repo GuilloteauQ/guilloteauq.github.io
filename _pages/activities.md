@@ -33,9 +33,9 @@ navigation_weight: 4
 
 # Supervision
 
-- 2024 (180 hours) M2 & Arbër Hyseni (University of Basel), co-supervised with Florina M. Ciorba, working on DAPHNE
+- 2024 (180 hours) M2, Arbër Hyseni (University of Basel), co-supervised with Florina M. Ciorba, working on DAPHNE
 
-- 2024 (2 months) L3 & Antoine Waehren (Univ. Strasbourg), co-supervised with Florina M. Ciorba, working on [Reproductibility and longevity](https://doi.org/10.5281/zenodo.13860834)
+- 2024 (2 months) L3, Antoine Waehren (Univ. Strasbourg), co-supervised with Florina M. Ciorba, working on [Reproductibility and longevity](https://doi.org/10.5281/zenodo.13860834)
 
 - 2023 (4 months) Eng. M1,  Samuel Brun (Polytech Grenoble), co-supervised with Olivier Richard, working on [Nix and file-systems](https://inria.hal.science/hal-04197724)
 
