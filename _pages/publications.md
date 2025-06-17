@@ -10,7 +10,14 @@ You can also find a [RSS Feed](https://api.archives-ouvertes.fr/search/?wt=rss&q
 
 If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-guilloteau).
 
+# Journals
+
+- Quentin Guilloteau, Raphaël Bleuse, Sophie Cerf, Bogdan Robu, Rosa Pagano, Éric Rutten. **Autonomic Resource Harvesting in HPC: Control Methods and Their Reusability**. *ACM TAAS* 2025
+
+
 # International Conferences
+
+- Quentin Guilloteau, Antoine Waehren, Florina M. Ciorba. **Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design** (Short paper). *ACM Conference on Reproducibility and Replicability (REP 2025)*
 
 - Rosa Pagano, Sophie Cerf, Bogdan Robu, Quentin Guilloteau, Raphaël Bleuse, Eric Rutten. **Making control in High Performance Computing for overload avoidance
 adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Technology and Applications*, [hal-04669743](https://hal.science/hal-04669743), [pdf](https://hal.science/hal-04669743/document)
