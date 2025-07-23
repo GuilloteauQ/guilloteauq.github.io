@@ -17,7 +17,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 # International Conferences
 
-- Quentin Guilloteau, Antoine Waehren, Florina M. Ciorba. **Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design** (Short paper). *ACM Conference on Reproducibility and Replicability (REP 2025)*
+- Quentin Guilloteau, Antoine Waehren, Florina M. Ciorba. **Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design** (Short paper). *ACM Conference on Reproducibility and Replicability (REP 2025)*, [hal-05163884](https://hal.science/hal-05163884), [pdf](https://hal.science/hal-05163884/document)
 
 - Rosa Pagano, Sophie Cerf, Bogdan Robu, Quentin Guilloteau, Raphaël Bleuse, Eric Rutten. **Making control in High Performance Computing for overload avoidance
 adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Technology and Applications*, [hal-04669743](https://hal.science/hal-04669743), [pdf](https://hal.science/hal-04669743/document)
