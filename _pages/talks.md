@@ -8,7 +8,7 @@ A list of some talk I gave:
 
 - July 2025 - [ACM REP25](https://acm-rep.github.io/2025): Longitudinal Study of Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design ([slides]({{ site.url }}/downloads/slides/acmrep25.pdf), [recording](https://youtu.be/GNWJzsweWUQ))
 
-- June 2025 - [Compas 25](https://2025.compas-conference.fr/tutoriaux): Tutorial "Reproducible distributed environments with NixOS Compose" ([slides]({{ site.url }}/downloads/slides_tutorial.pdf), [webpage](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/)
+- June 2025 - [Compas 25](https://2025.compas-conference.fr/tutoriaux): Tutorial "Reproducible distributed environments with NixOS Compose" ([slides]({{ site.url }}/downloads/slides_tutorial.pdf), [webpage](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/))
 
 - Feb. 2025 - Avalon Seminar: Presentation and Demonstration of the Nix Package Manager ([slides]({{ site.url }}/downloads/slides/nix-dmi.pdf))
 
