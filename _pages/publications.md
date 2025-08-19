@@ -14,6 +14,7 @@ If this is outdated you can try [here](https://cv.archives-ouvertes.fr/quentin-g
 
 - Quentin Guilloteau, Raphaël Bleuse, Sophie Cerf, Bogdan Robu, Rosa Pagano, Éric Rutten. **Autonomic Resource Harvesting in HPC: Control Methods and Their Reusability**. *ACM TAAS* 2025
 
+- Jonas H Müller Korndörfer, Ali Mohammed, Ahmed Eleliemy, Quentin Guilloteau, Reto Krummenacher, Florina M. Ciorba. **A Comparative Study of OpenMP Scheduling Algorithm Selection Strategies**. IEEE Access, [arxiv:2507.20312](https://arxiv.org/abs/2507.20312), [pdf](https://arxiv.org/pdf/2507.20312)
 
 # International Conferences
 
