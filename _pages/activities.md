@@ -8,32 +8,27 @@ navigation_weight: 4
 
 ## Sub Reviewer
 
-- [IC2E'25](https://conferences.computer.org/IC2E/2025/index.html)
+- CCGrid: [2025](https://site.uit.no/ccgrid2025)
 
 - [ContinuumRI @CCGrid'25](https://sites.google.com/view/continuumri/)
 
-- [CCGrid'25](https://site.uit.no/ccgrid2025)
+- IC2E: [2025](https://conferences.computer.org/IC2E/2025/index.html)
 
-- [IPDPS'25](https://www.ipdps.org/)
+- IPDPS: [2022](https://www.ipdps.org/ipdps2022/index.html), [2025](https://www.ipdps.org/ipdps2025/index.html)
 
-- [PPoPP'25](https://ppopp25.sigplan.org/) 
-
-- [IPDPS'22](https://www.ipdps.org/ipdps2022/index.html) 
+- PPoPP: [2025](https://ppopp25.sigplan.org/) 
 
 
 ## Reproducibility Commitee Member
 
-- [ALENEX 26](https://www.siam.org/conferences-events/siam-conferences/alenex26/submissions/artifact-evaluation/)
+- ALENEX: [2026](https://www.siam.org/conferences-events/siam-conferences/alenex26/submissions/artifact-evaluation/)
 
-- [EuroSys'26](https://sysartifacts.github.io/eurosys2026/call)
+- EuroSys: [2025](https://sysartifacts.github.io/eurosys2025/call), [2026](https://sysartifacts.github.io/eurosys2026/call)
 
-- [SuperComputing25](https://sc25.supercomputing.org/program/papers/reproducibility-initiative/)
+- SuperComputing: [2024](https://sc24.supercomputing.org/program/papers/reproducibility-initiative/), [2025](https://sc25.supercomputing.org/program/papers/reproducibility-initiative/)
 
-- [PPoPP'25](https://ppopp25.sigplan.org/committee/PPoPP-2025-artifact-evaluation-artifact-evaluation-committee)
+- PPoPP: [2025](https://ppopp25.sigplan.org/committee/PPoPP-2025-artifact-evaluation-artifact-evaluation-committee)
 
-- [EuroSys'25](https://sysartifacts.github.io/eurosys2025/call)
-
-- [SuperComputing24](https://sc24.supercomputing.org/program/papers/reproducibility-initiative/)
 
 # Supervision
 
