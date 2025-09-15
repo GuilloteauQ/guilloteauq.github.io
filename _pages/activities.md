@@ -23,6 +23,10 @@ navigation_weight: 4
 
 ## Reproducibility Commitee Member
 
+- [ALENEX 26](https://www.siam.org/conferences-events/siam-conferences/alenex26/submissions/artifact-evaluation/)
+
+- [EuroSys'26](https://sysartifacts.github.io/eurosys2026/call)
+
 - [SuperComputing25](https://sc25.supercomputing.org/program/papers/reproducibility-initiative/)
 
 - [PPoPP'25](https://ppopp25.sigplan.org/committee/PPoPP-2025-artifact-evaluation-artifact-evaluation-committee)
