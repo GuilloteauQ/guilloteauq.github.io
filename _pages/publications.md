@@ -71,6 +71,10 @@ I wrote and presented the following tutorials:
 
 # Posters
 
+- Reto Krummenacher, Quentin Guilloteau, Jonas H Müller Korndörfer, Florina M. Ciorba. **Seamless Scaling of Applications Across Programming Models**, SC25
+
+- Jonas H Müller Korndörfer, Ali Mohammed, Ahmed Eleliemy, Quentin Guilloteau, Reto Krummenacher, Florina M. Ciorba. **A Comparative Study of OpenMP Scheduling Algorithm Selection Strategies**, SC25
+
 - Quentin Guilloteau, Florina M. Ciorba. **Reproducibility in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities**, *Swiss Reproducibility Conference 2024*, [hal-04601351](https://hal.science/hal-04601351), [pdf](https://hal.science/hal-04601351/document)
 
 - Quentin Guilloteau. **Autonomic Approach to the Runtime Management of HPC Cluster Resources**, *LIG PhD Day 2022*, [hal-04570283](https://hal.science/hal-04570283), [pdf](https://hal.science/hal-04570283/file/poster.pdf)

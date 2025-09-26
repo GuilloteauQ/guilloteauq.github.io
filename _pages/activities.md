@@ -6,6 +6,10 @@ navigation_weight: 4
 
 # Committees
 
+## Reviewer
+
+- UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/)
+
 ## Sub Reviewer
 
 - CCGrid: [2025](https://site.uit.no/ccgrid2025)
