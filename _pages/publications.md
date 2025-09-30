@@ -81,4 +81,6 @@ I wrote and presented the following tutorials:
 
 # Open Artifact Reviews
 
+- [*Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis by You et al.*](), **SC 2025**, [review]({{ site.url }}/downloads/reviewsc25.pdf)
+
 - [*COAXIAL: A CXL-Centric Memory System for Scalable Servers, by Cho et al.*](https://doi.org/10.1109/SC41406.2024.00101), **SC 2024**, [review]({{ site.url }}/downloads/reviewsc24.pdf)
