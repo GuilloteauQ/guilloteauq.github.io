@@ -43,3 +43,5 @@ You can find my CV [here]({{ site.url }}/downloads/CV_Guilloteau_Quentin_2024100
 
 * LinkedIn: [Quentin Guilloteau](https://www.linkedin.com/in/quentin-guilloteau-778a61151/)
 
+* Mastodon: <a href="https://social.sciences.re/@GuilloteauQ" rel="me">Follow me on Mastodon!</a>
+
