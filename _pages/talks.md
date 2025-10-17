@@ -6,6 +6,8 @@ navigation_weight: 3
 
 A list of some talk I gave:
 
+- October 2025 - Journées Taranis: Towards Decoupling Application Descriptions from their Execution Environments ([slides]({{ site.url }}/downloads/slides/taranis_171025.pdf)
+
 - July 2025 - [ACM REP25](https://acm-rep.github.io/2025): Longitudinal Study of Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design ([slides]({{ site.url }}/downloads/slides/acmrep25.pdf), [recording](https://youtu.be/GNWJzsweWUQ))
 
 - June 2025 - [Compas 25](https://2025.compas-conference.fr/tutoriaux): Tutorial "Reproducible distributed environments with NixOS Compose" ([slides]({{ site.url }}/downloads/slides_tutorial.pdf), [webpage](https://nixos-compose.gitlabpages.inria.fr/tuto-nxc/))
