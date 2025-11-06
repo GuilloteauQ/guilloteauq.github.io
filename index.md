@@ -9,7 +9,7 @@ navigation_weight: 1
 
 I am currently a Post-Doc at INRIA, LIP, in Lyon - France, in the [AVALON](https://avalon.ens-lyon.fr) team led by [Christian Perez](https://graal.ens-lyon.fr/~cperez/web/doku.php/start).
 
-I am working on the [Concerto reconfiguration model](https://gitlab.inria.fr/VeRDi-project/concerto) in the context of the [Taranis project](https://pepr-cloud.fr/fr/projet-taranis/) of the [PERP Cloud](https://pepr-cloud.fr/fr/).
+I am working on the [Concerto reconfiguration model](https://gitlab.inria.fr/VeRDi-project/concerto) in the context of the [Taranis project](https://pepr-cloud.fr/fr/projet-taranis/) of the [PEPR Cloud](https://pepr-cloud.fr/fr/).
 
 Before 2025, I was a Post-Doc at the University of Basel, Switzerland, in the [DMI-HPC](https://hpc.dmi.unibas.ch/) group led by [Florina Ciorba](https://hpc.dmi.unibas.ch/people/florina-ciorba/).
 I was working on [DAPHNE](https://daphne-eu.eu/), an open and extensible system infrastructure for integrated data analysis pipelines combining data management and query processing, machine learning training and scoring, as well as high-performance computing and simulations.
