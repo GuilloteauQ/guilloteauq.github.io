@@ -71,9 +71,9 @@ I wrote and presented the following tutorials:
 
 # Posters
 
-- Reto Krummenacher, Quentin Guilloteau, Jonas H Müller Korndörfer, Florina M. Ciorba. **Seamless Scaling of Applications Across Programming Models**, SC25
+- Reto Krummenacher, Quentin Guilloteau, Jonas H Müller Korndörfer, Florina M. Ciorba. **Seamless Scaling of Applications Across Programming Models**, SC25, [pdf](https://sc25.supercomputing.org/proceedings/posters/poster_files/post157s2-file2.pdf)
 
-- Jonas H Müller Korndörfer, Ali Mohammed, Ahmed Eleliemy, Quentin Guilloteau, Reto Krummenacher, Florina M. Ciorba. **A Comparative Study of OpenMP Scheduling Algorithm Selection Strategies**, SC25
+- Jonas H Müller Korndörfer, Ali Mohammed, Ahmed Eleliemy, Quentin Guilloteau, Reto Krummenacher, Florina M. Ciorba. **A Comparative Study of OpenMP Scheduling Algorithm Selection Strategies**, SC25, [pdf](https://sc25.supercomputing.org/proceedings/posters/poster_files/post176s2-file3.pdf)
 
 - Quentin Guilloteau, Florina M. Ciorba. **Reproducibility in Parallel and Distributed Computing: Challenges, State-of-the-practice, Limitations, and Opportunities**, *Swiss Reproducibility Conference 2024*, [hal-04601351](https://hal.science/hal-04601351), [pdf](https://hal.science/hal-04601351/document)
 
@@ -81,6 +81,6 @@ I wrote and presented the following tutorials:
 
 # Open Artifact Reviews
 
-- [*Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis by You et al.*](), **SC 2025**, [review]({{ site.url }}/downloads/reviewsc25.pdf)
+- [*Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis by You et al.*](), **SC 2025**, [review](https://dl.acm.org/doi/full/10.1145/3712285.3769455)
 
 - [*COAXIAL: A CXL-Centric Memory System for Scalable Servers, by Cho et al.*](https://doi.org/10.1109/SC41406.2024.00101), **SC 2024**, [review]({{ site.url }}/downloads/reviewsc24.pdf)
