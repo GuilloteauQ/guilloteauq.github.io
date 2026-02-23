@@ -6,7 +6,13 @@ navigation_weight: 4
 
 # Committees
 
+## Organazing
+
+- Workshop REPRO-HPC: [2026](https://repro-hpc.github.io/)
+
 ## Reviewer
+
+- COMPAS: [2026](https://2026.compas-conference.fr/)
 
 - UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/)
 
@@ -15,6 +21,8 @@ navigation_weight: 4
 - CCGrid: [2025](https://site.uit.no/ccgrid2025)
 
 - [ContinuumRI @CCGrid'25](https://sites.google.com/view/continuumri/)
+
+- HPDC: [2026](https://hpdc.sci.utah.edu/2026/)
 
 - IC2E: [2025](https://conferences.computer.org/IC2E/2025/index.html)
 
