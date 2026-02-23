@@ -14,6 +14,8 @@ navigation_weight: 4
 
 - COMPAS: [2026](https://2026.compas-conference.fr/)
 
+- [JOSS](https://joss.theoj.org/)
+
 - UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/)
 
 ## Sub Reviewer
