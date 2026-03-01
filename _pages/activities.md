@@ -12,11 +12,11 @@ navigation_weight: 4
 
 ## Reviewer
 
-- COMPAS: [2026](https://2026.compas-conference.fr/)
+- COMPAS: [2026](https://2026.compas-conference.fr/) (PC)
 
 - [JOSS](https://joss.theoj.org/)
 
-- UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/)
+- UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/) (PC)
 
 ## Sub Reviewer
 
