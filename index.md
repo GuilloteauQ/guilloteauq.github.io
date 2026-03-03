@@ -5,6 +5,8 @@ navigation_weight: 1
 
 # Quentin Guilloteau's Homepage
 
+**NEW** Join us at [ISC](https://isc-hpc.com) to discuss about reproducibility and HPC during our workshop: [**REPRO-HPC**](https://repro-hpc.github.io)
+
 ## Who am I ?
 
 I am currently a Post-Doc at INRIA, LIP, in Lyon - France, in the [AVALON](https://avalon.ens-lyon.fr) team led by [Christian Perez](https://graal.ens-lyon.fr/~cperez/web/doku.php/start).
