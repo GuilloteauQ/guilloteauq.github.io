@@ -7,6 +7,8 @@ navigation_weight: 1
 
 **NEW** Join us at [ISC](https://isc-hpc.com) to discuss about reproducibility and HPC during our workshop: [**REPRO-HPC**](https://repro-hpc.github.io)
 
+**NEW** The webpage of the Kairns collective is moving a bit... the current valid link is [https://kairns.gricad-pages.univ-grenoble-alpes.fr/website/](https://kairns.gricad-pages.univ-grenoble-alpes.fr/website/)
+
 ## Who am I ?
 
 I am currently a Post-Doc at INRIA, LIP, in Lyon - France, in the [AVALON](https://avalon.ens-lyon.fr) team led by [Christian Perez](https://graal.ens-lyon.fr/~cperez/web/doku.php/start).
