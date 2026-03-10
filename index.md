@@ -20,7 +20,7 @@ I was working on [DAPHNE](https://daphne-eu.eu/), an open and extensible system 
 
 Before December 2023 I was a PhD student at Université Grenoble Alpes under the supervision of [Eric Rutten](https://team.inria.fr/ctrl-a/members/eric-rutten/) and [Olivier Richard](https://datamove.imag.fr/olivier.richard/) working on the topic of  [“Control-based runtime management of HPC systems with support for reproducible experiments”](https://hal.science/tel-04389290)
 
-You can find my CV [here]({{ site.url }}/downloads/CV_Guilloteau_Quentin_20241004.pdf) (updated October 2024).
+You can find my CV [here]({{ site.url }}/downloads/cv_quentin_guilloteau_march2026.pdf) (updated March 2026).
 
 ## Research Interests
 
