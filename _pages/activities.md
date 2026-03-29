@@ -6,7 +6,7 @@ navigation_weight: 4
 
 # Committees
 
-## Organazing
+## Organization
 
 - Workshop REPRO-HPC: [2026](https://repro-hpc.github.io/)
 
