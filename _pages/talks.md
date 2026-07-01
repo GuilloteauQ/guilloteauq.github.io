@@ -6,6 +6,14 @@ navigation_weight: 3
 
 A list of some talk I gave:
 
+- July 2026 - COMPAS26 : Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes ([slides]({{ site.url }}/downloads/slides/legato-compas26.pdf))
+
+- June 2026 - ReproHackathon COMPAS26 ([slides]({{ site.url }}/downloads/slides/reprohack26.pdf))
+
+- June 2026 - REPRO-HPC Workshop ([intro]({{ site.url }}/downloads/slides/reprohpc26-intro.pdf), [panel]({{ site.url }}/downloads/slides/reprohpc26-panel.pdf))
+
+- June 2026 - Journées autour de l'expérimentation -- GTEB "Outils et méthode pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_gdr_rsd.pdf))
+
 - October 2025 - Journées Taranis: Towards Decoupling Application Descriptions from their Execution Environments ([slides]({{ site.url }}/downloads/slides/taranis_171025.pdf))
 
 - July 2025 - [ACM REP25](https://acm-rep.github.io/2025): Longitudinal Study of Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design ([slides]({{ site.url }}/downloads/slides/acmrep25.pdf), [recording](https://youtu.be/GNWJzsweWUQ))
