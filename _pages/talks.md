@@ -12,7 +12,7 @@ A list of some talk I gave:
 
 - June 2026 - REPRO-HPC Workshop ([intro]({{ site.url }}/downloads/slides/reprohpc26-intro.pdf), [panel]({{ site.url }}/downloads/slides/reprohpc26-panel.pdf))
 
-- June 2026 - Journées autour de l'expérimentation -- GTEB "Outils et méthode pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_gdr_rsd.pdf))
+- June 2026 - Journées autour de l'expérimentation -- GTEB "Outils et méthode pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_gdr-rsd.pdf))
 
 - October 2025 - Journées Taranis: Towards Decoupling Application Descriptions from their Execution Environments ([slides]({{ site.url }}/downloads/slides/taranis_171025.pdf))
 
