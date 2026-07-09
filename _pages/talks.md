@@ -6,11 +6,13 @@ navigation_weight: 3
 
 A list of some talk I gave:
 
-- July 2026 - COMPAS26 : Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes ([slides]({{ site.url }}/downloads/slides/legato-compas26.pdf))
+- July 2026 - [SLICES-FR Summer School](https://ecole26slicesfr.sciencesconf.org/) : Présentation GTEB "Outils et méthodes pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_slicesfr26.pdf))
 
-- June 2026 - ReproHackathon COMPAS26 ([slides]({{ site.url }}/downloads/slides/reprohack26.pdf))
+- July 2026 - [COMPAS26](https://2026.compas-conference.fr/) : Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes ([slides]({{ site.url }}/downloads/slides/legato-compas26.pdf))
 
-- June 2026 - REPRO-HPC Workshop ([intro]({{ site.url }}/downloads/slides/reprohpc26-intro.pdf), [panel]({{ site.url }}/downloads/slides/reprohpc26-panel.pdf))
+- June 2026 - [ReproHackathon COMPAS26](https://guilloteauq.codeberg.page/reprohack26/) ([slides]({{ site.url }}/downloads/slides/reprohack26.pdf))
+
+- June 2026 - [REPRO-HPC Workshop](https://repro-hpc.github.io) ([intro]({{ site.url }}/downloads/slides/reprohpc26-intro.pdf), [panel]({{ site.url }}/downloads/slides/reprohpc26-panel.pdf))
 
 - June 2026 - Journées autour de l'expérimentation -- GTEB "Outils et méthode pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_gdr-rsd.pdf))
 
