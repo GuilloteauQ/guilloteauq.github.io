@@ -6,6 +6,8 @@ navigation_weight: 3
 
 A list of some talk I gave:
 
+- July 2026 - [SLICES-FR Summer School](https://ecole26slicesfr.sciencesconf.org/) : (Début de) Rétrospective sur Grid'5000 ([slides]({{ site.url }}/downloads/slides/Guilloteau_Retrospective_Grid5000.pdf), [quiz as slides]({{ site.url }}/downloads/slides/Guilloteau_Quiz_Grid5000_emergency_slides.pdf))
+
 - July 2026 - [SLICES-FR Summer School](https://ecole26slicesfr.sciencesconf.org/) : Présentation GTEB "Outils et méthodes pour l'expérimentation" ([slides]({{ site.url }}/downloads/slides/gteb_slicesfr26.pdf))
 
 - July 2026 - [COMPAS26](https://2026.compas-conference.fr/) : Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes ([slides]({{ site.url }}/downloads/slides/legato-compas26.pdf))
