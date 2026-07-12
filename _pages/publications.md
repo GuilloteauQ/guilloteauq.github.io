@@ -47,6 +47,8 @@ adaptive in time and job size**, *CCTA 2024 - 8th IEEE Conference on Control Tec
 
 # Workshops, Preprints, Working Papers
 
+- Quentin Guilloteau, Jules Evans, Millian Poquet, Miguel Felipe Silva Vasconcelos. **ReproHackathon at COMPAS 2026**, [hal-05684852](https://hal.science/hal-05684852), [pdf](https://hal.science/hal-05684852/document)
+
 - Quentin Guilloteau, Millian Poquet, Jonas H Müller Korndörfer, Florina M Ciorba. **Artifact Evaluations as Authors and Reviewers : Lessons, Questions, and Frustrations**, *Community Workshop on Practical Reproducibility in HPC 2024*, [hal-04764265](https://hal.science/hal-04764265/), [proposal](https://hal.science/hal-04764265/file/proposal.pdf), [slides](https://hal.science/hal-04764265/file/slides_guilloteau_ae_authors_reviewers_lessons_questions_frustrations.pdf)
 
 - Quentin Guilloteau. **Simulating a Multi-Layered Grid Middleware**, [hal-04101015](https://hal.science/hal-04101015), [pdf](https://hal.science/hal-04101015v1/file/batcigri.pdf)
