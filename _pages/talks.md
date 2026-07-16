@@ -6,7 +6,7 @@ navigation_weight: 3
 
 A list of some talk I gave:
 
-- July 2026 - [STACK Seminar](https://stack-research-group.gitlabpages.inria.fr/web/pages/seminars.html) : Legato: A Component Model to Decouple Application Assembly from Nested and Heterogeneous Deployments [slides]({{ site.url }}/downloads/slides/legato_stack_20260716.pdf)
+- July 2026 - [STACK Seminar](https://stack-research-group.gitlabpages.inria.fr/web/pages/seminars.html) : Legato: A Component Model to Decouple Application Assembly from Nested and Heterogeneous Deployments ([slides]({{ site.url }}/downloads/slides/legato_stack_20260716.pdf))
 
 - July 2026 - [SLICES-FR Summer School](https://ecole26slicesfr.sciencesconf.org/) : (Début de) Rétrospective sur Grid'5000 ([slides]({{ site.url }}/downloads/slides/Guilloteau_Retrospective_Grid5000.pdf), [quiz as slides]({{ site.url }}/downloads/slides/Guilloteau_Quiz_Grid5000_emergency_slides.pdf))
 
