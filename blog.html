@@ -1,0 +1,15 @@
+---
+layout: default
+title: Blog
+navigation_weight: 5
+---
+
+<h1>Collection of random thoughts (a.k.a. posts)</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</h3>
+    </li>
+  {% endfor %}
+</ul>

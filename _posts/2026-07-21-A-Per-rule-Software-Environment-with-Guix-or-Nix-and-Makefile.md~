@@ -1,0 +1,100 @@
+---
+layout: post
+author: Quentin
+---
+
+When you have a master `Makefile` and try to have a precise software environment per rule, it can become quite verbose.
+In this post, we are looking at a way to integrate Guix and Nix into a `Makefile` in a not (so) verbose way.
+
+## Guix
+
+```makefile
+# Makefile
+.RECIPEPREFIX=>
+.ONESHELL:
+SHELL= guix
+.SHELLFLAGS= time-machine -C $(CHANNELS) -- shell -m $(MANIFEST) -- bash -eu -o pipefail -c
+
+CHANNELS:=channels.scm
+
+all: foo bar
+
+foo: MANIFEST=manifest-py.scm
+foo: EXTRA_PREREQS=manifest-py.scm $(CHANNELS)
+foo:
+> python3 --version > $@
+
+bar: MANIFEST=manifest-R.scm
+bar: EXTRA_PREREQS=manifest-R.scm $(CHANNELS)
+bar:
+> Rscript --version > $@
+```
+
+where:
+
+```scheme
+;; manifest-py.scm 
+(specifications->manifest (list "python" "bash"))
+```
+
+and
+
+``` scheme
+;; manifest-R.scm
+(specifications->manifest (list "r" "bash"))
+```
+and `channels.scm` from `guix describe -f channels`
+
+## Nix
+
+```makefile
+# Makefile
+.RECIPEPREFIX=>
+.ONESHELL:
+SHELL= nix-shell
+.SHELLFLAGS= --pure --arg channels $(CHANNELS) $(NIX_SHELL) --command 
+
+CHANNELS:=./channels.nix
+
+all: foo bar
+
+foo: NIX_SHELL=pyshell.nix
+foo: EXTRA_PREREQS=pyshell.nix $(CHANNELS)
+foo:
+> python3 --version > $@
+
+bar: NIX_SHELL=rshell.nix
+bar: EXTRA_PREREQS=rshell.nix $(CHANNELS)
+bar:
+> Rscript --version > $@
+```
+
+where:
+
+```nix
+# channels.nix
+import (builtins.fetchTarball {
+    url = "https://github.com/nixos/nixpkgs/archive/25.11.tar.gz";
+    sha256 = "sha256:1zn1lsafn62sz6azx6j735fh4vwwghj8cc9x91g5sx2nrg23ap9k";
+})
+```
+
+```nix
+# pyshell.nix
+{ channels, pkgs ? import channels {} }:
+pkgs.mkShell {
+    packages = with pkgs; [
+        python3
+    ];
+}
+```
+
+```nix
+# rshell.nix
+{ channels, pkgs ? import channels {} }:
+pkgs.mkShell {
+    packages = with pkgs; [
+        R
+    ];
+}
+```

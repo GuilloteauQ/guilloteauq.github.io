@@ -2,6 +2,7 @@
 title: Activities
 permalink: /activities/
 navigation_weight: 4
+layout: default
 ---
 
 

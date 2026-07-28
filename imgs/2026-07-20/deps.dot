@@ -1,0 +1,9 @@
+  digraph {
+    "main.py"    -> "data.csv";
+    "flake.nix"  -> "data.csv";
+    "flake.lock" -> "data.csv";
+    "analysis.R" -> "plot.pdf";
+    "flake.nix"  -> "plot.pdf";
+    "flake.lock" -> "plot.pdf";
+    "data.csv"   -> "plot.pdf";
+  }

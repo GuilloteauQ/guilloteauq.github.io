@@ -2,6 +2,7 @@
 title: Talks
 permalink: /talks/
 navigation_weight: 3
+layout: default
 ---
 
 A list of some talk I gave:

@@ -1,6 +1,7 @@
 ---
 title: Homepage
 navigation_weight: 1
+layout: default
 ---
 
 # Quentin Guilloteau's Homepage

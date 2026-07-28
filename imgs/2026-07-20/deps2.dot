@@ -1,0 +1,9 @@
+  digraph {
+    "main.py"          -> "data.csv";
+    "nix/channels.nix" -> "data.csv";
+    "nix/pyshell.nix"  -> "data.csv";
+    "analysis.R"       -> "plot.pdf";
+    "nix/channels.nix" -> "plot.pdf";
+    "nix/rshell.nix"   -> "plot.pdf";
+    "data.csv"         -> "plot.pdf";
+  }

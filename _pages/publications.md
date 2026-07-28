@@ -2,6 +2,7 @@
 title: Publications
 permalink: /publications/
 navigation_weight: 2
+layout: default
 ---
 
 Here is the list of my publications.

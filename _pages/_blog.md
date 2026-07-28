@@ -1,10 +1,13 @@
 ---
 title: Blog
 permalink: /blog/
-# navigation_weight: 6
+#navigation_weight: 5
+layout: default
 ---
 
 ## Blog
+
+
 
 * [July 2019] [Messing with Macros and Enums in Rust](/blog/rust_macros):
 The quest to avoid big matching patterns in the context of heavy (lot of elements) enums
