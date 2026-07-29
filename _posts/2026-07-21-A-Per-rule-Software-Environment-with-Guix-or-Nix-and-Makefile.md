@@ -21,10 +21,10 @@ all: foo bar
 CHANNELS:=channels.scm
 
 foo: $(CHANNELS) manifest-py.scm
-    guix time-machine -C $(CHANNELS) -- shell -m manifest-py.scm -- python3 --version > $@
+	guix time-machine -C $(CHANNELS) -- shell -m manifest-py.scm -- python3 --version > $@
 
 bar: $(CHANNELS) manifest-r.scm
-    guix time-machine -C $(CHANNELS) -- shell -m manifest-r.scm -- Rscript --version > $@
+	guix time-machine -C $(CHANNELS) -- shell -m manifest-r.scm -- Rscript --version > $@
 ```
 
 As you can see..... quite verbose.
@@ -44,6 +44,7 @@ The Guix version might look something like this:
 
 ```makefile
 # Makefile
+.ONESHELL:
 SHELL= guix
 .SHELLFLAGS= time-machine -C $(CHANNELS) -- shell -m $(MANIFEST) -- bash -eu -o pipefail -c
 
@@ -54,12 +55,12 @@ all: foo bar
 foo: MANIFEST=manifest-py.scm
 foo: EXTRA_PREREQS=manifest-py.scm $(CHANNELS)
 foo:
-    python3 --version > $@
+	python3 --version > $@
 
 bar: MANIFEST=manifest-R.scm
 bar: EXTRA_PREREQS=manifest-R.scm $(CHANNELS)
 bar:
-    Rscript --version > $@
+	Rscript --version > $@
 ```
 
 So, the values of `CHANNELS` and `MANIFEST` only evaluated when calling the `SHELL` for running the rule.
@@ -91,6 +92,7 @@ Not that we are not using Flakes here.
 
 ```makefile
 # Makefile
+.ONESHELL:
 SHELL= nix-shell
 .SHELLFLAGS= --pure --arg channels $(CHANNELS) $(NIX_SHELL) --command 
 
@@ -101,12 +103,12 @@ all: foo bar
 foo: NIX_SHELL=pyshell.nix
 foo: EXTRA_PREREQS=pyshell.nix $(CHANNELS)
 foo:
-    python3 --version > $@
+	python3 --version > $@
 
 bar: NIX_SHELL=rshell.nix
 bar: EXTRA_PREREQS=rshell.nix $(CHANNELS)
 bar:
-    Rscript --version > $@
+	Rscript --version > $@
 ```
 
 where:

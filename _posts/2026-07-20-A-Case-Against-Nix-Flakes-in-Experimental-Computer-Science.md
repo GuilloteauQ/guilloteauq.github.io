@@ -158,10 +158,10 @@ A simple `Makefile` would look like:
 ```makefile
 # Makefile
 data.csv: main.py flake.nix flake.lock
-    nix develop .#pyshell --command python3 $< [ARGS] > $@
+	nix develop .#pyshell --command python3 $< [ARGS] > $@
 
 plot.pdf: analysis.R data.csv flake.nix flake.lock
-    nix develop .#rshell --command Rscript analysis.R data.csv $@
+	nix develop .#rshell --command Rscript analysis.R data.csv $@
 ```
 
 As running the Python script takes hours or days to compute the `data.csv` file,
@@ -212,10 +212,10 @@ We could update the `Makefile` as such:
 ```makefile
 # Makefile
 data.csv: main.py flake.nix flake.lock nix/pyshell.nix
-    nix develop .#pyshell --command python3 $< [ARGS] > $@
+	nix develop .#pyshell --command python3 $< [ARGS] > $@
 
 plot.pdf: analysis.R data.csv flake.nix flake.lock nix/rshell.nix
-    nix develop .#rshell --command Rscript analysis.R data.csv $@
+	nix develop .#rshell --command Rscript analysis.R data.csv $@
 ```
 
 The issue is that we still depend on `flake.nix`.
@@ -255,10 +255,10 @@ The `Makefile` can then be:
 ```makefile
 # Makefile
 data.csv: main.py nix/pyshell/flake.nix nix/pyshell/flake.lock
-    nix develop ./nix/pyshell/ --command python3 $< [ARGS] > $@
+	nix develop ./nix/pyshell/ --command python3 $< [ARGS] > $@
 
 plot.pdf: analysis.R data.csv nix/rshell/flake.nix nix/rshell/flake.lock
-    nix develop ./nix/rshell/ --command Rscript analysis.R data.csv $@
+	nix develop ./nix/rshell/ --command Rscript analysis.R data.csv $@
 ```
 
 The `nix` directory now looks like this:
@@ -309,10 +309,10 @@ The `Makefile` is then:
 ```makefile
 # Makefile
 data.csv: main.py nix/channels.nix nix/pyshell.nix
-    nix-shell --pure --arg channels ./nix/channels.nix nix/pyshell.nix --command 'python3 $< [ARGS] > $@'
+	nix-shell --pure --arg channels ./nix/channels.nix nix/pyshell.nix --command 'python3 $< [ARGS] > $@'
 
 plot.pdf: analysis.R data.csv nix/channels.nix nix/rshell.nix
-    nix-shell --pure --arg channels ./nix/channels.nix nix/rshell.nix --command 'Rscript analysis.R data.csv $@'
+	nix-shell --pure --arg channels ./nix/channels.nix nix/rshell.nix --command 'Rscript analysis.R data.csv $@'
 ```
 
 In this case, there is a clear separation of concerns: the function definition on one side (the `pyshell.nix` and `rshell.nix` files) and the function inputs on the other (the `channels.nix` file).
