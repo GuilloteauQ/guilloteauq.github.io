@@ -12,6 +12,8 @@ layout: default
 
 - [SLICES-FR](https://slices-fr.eu) [GTEB](https://slices-fr.eu/gteb) "Outils et méthodes pour l'expérimentation"
 
+- [ReproHackathon](https://guilloteauq.codeberg.page/reprohack26/) at COMPAS26 (see [report](https://hal.science/hal-05684852))
+
 # Committees
 
 ## Reviewer (PC member)
@@ -21,6 +23,8 @@ layout: default
 - [JOSS](https://joss.theoj.org/)
 
 - SBAC-PAD: [2026](https://coco-arcos.github.io/sbac-pad2026/)
+
+- [TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)
 
 - UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/) (PC)
 
@@ -74,3 +78,5 @@ layout: default
 # Misc.
 
 - Member of the regional Jury of ["Trophées NSI"](https://trophees-nsi.fr/) -- French High School Programming Competition -- (2022, 2023)
+
+- Co-"leader" of the [Kairns collective](https://kairns.gricad-pages.univ-grenoble-alpes.fr/) from June 2025 to December 2025.
