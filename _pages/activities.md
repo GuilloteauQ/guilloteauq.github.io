@@ -26,7 +26,7 @@ layout: default
 
 - [TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)
 
-- UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/) (PC)
+- UCC: [2025](https://ucc2025.gitlabpages.inria.fr/web/), [2026](https://ucc2026.ufsc.br/)
 
 ## Sub Reviewer
 
